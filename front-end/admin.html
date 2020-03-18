@@ -1,0 +1,1288 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Admin Dashboard</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/simple-sidebar.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+<!-- <header class="bg-info text-white">
+  <div class="container text-center">
+    <h1>Welcome to 吊炸天的 shopping system</h1>
+    <p class="lead">................</p>
+  </div>
+</header> -->
+
+<div class="modal fade" id="staffLoginModal" tabindex="-1" role="dialog"
+     aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="staffLoginModalTitle">Staff Login</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="form-group">
+                    <input class="form-control required" type="text" placeholder="email" name="staff-login-email"
+                       autofocus="autofocus" maxlength="20" />
+                </div>
+                <div class="form-group">
+                    <input class="form-control required" type="password" placeholder="password" name="staff-login-password"
+                       autofocus="autofocus" maxlength="20" />
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancel</button>
+                <button type="button" class="btn btn-success" onclick="staff_login();">Login</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div id="wrapper">
+
+    <!-- Sidebar -->
+    <div id="sidebar-wrapper">
+        <ul class="sidebar-nav">
+            <li class="sidebar-brand">
+                <a>
+                    Dashboard
+                </a>
+            </li>
+            <li>
+                <a href="javascript:;" onclick="show_staff();">Personal information</a>
+            </li>
+            <li>
+                <a href="javascript:;" onclick="show_product();">Product</a>
+            </li>
+            <li>
+                <a href="javascript:;" onclick="show_store();">Store</a>
+            </li>
+            <li>
+                <a href="javascript:;" onclick="show_statistics();">Statistics</a>
+            </li>
+            <li id="staff_logout">
+                <a href="javascript:;" onclick="logout();">logout</a>
+            </li>
+
+        </ul>
+    </div>
+    <!-- /#sidebar-wrapper -->
+
+    <!-- Page Content -->
+    <div id="page-content-wrapper">
+        <!-- sidebar button -->
+        <a href="#menu-toggle" class="btn btn-secondary" id="menu-toggle">Show Sidebar</a>
+        <br><br>
+
+        <div id="staff" class="container-fluid">
+
+            <div class="row">
+
+                <div class="col-lg-9">
+                    <br>
+                    <dl class="row home">
+                        <dt class="col-sm-3">Name</dt>
+                        <dd class="col-sm-9 staff-name"></dd>
+
+                        <dt class="col-sm-3">Email</dt>
+                        <dd class="col-sm-9 staff-email"></dd>
+
+                        <dt class="col-sm-3">Password</dt>
+                        <dd class="col-sm-9 staff-password"></dd>
+
+                        <dt class="col-sm-3">Salary</dt>
+                        <dd class="col-sm-9 staff-salary"></dd>
+
+                        <dt class="col-sm-3">Position</dt>
+                        <dd class="col-sm-9 staff-position"></dd>
+
+                        <dt class="col-sm-3">State</dt>
+                        <dd class="col-sm-9 staff-state"></dd>
+
+                        <dt class="col-sm-3">City</dt>
+                        <dd class="col-sm-9 staff-city"></dd>
+
+                        <dt class="col-sm-3">Zip</dt>
+                        <dd class="col-sm-9 staff-zip"></dd>
+
+                        <dt class="col-sm-3">Street</dt>
+                        <dd class="col-sm-9 staff-street"></dd>
+                    </dl>
+                </div>
+                <!-- /.col-lg-9 -->
+
+                <div class="col-lg-3">
+
+                </div>
+                <!-- /.col-lg-3 -->
+
+            </div>
+
+        </div>
+
+
+        <div id="product" class="container-fluid">
+            <button type="button" class="btn btn-primary" onclick="go_to_product();">Add product</button>
+            <hr>
+            <table class="table table-striped">
+                <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>name</th>
+                    <th>vendor price</th>
+                    <th>retail price</th>
+                    <th>stock</th>
+                    <th>sold</th>
+                    <th>(manage)</th>
+                </tr>
+
+                </thead>
+                <tbody id="show-product"></tbody>
+            </table>
+
+            <div class="modal fade" id="addProductModal" tabindex="-1" role="dialog"
+                 aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="addProductModalTitle">Edit</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <div class="form-group">
+
+                                <input class="form-control required" type="text" placeholder="product id" name="add-pid"
+                                       autofocus="autofocus" maxlength="20" hidden/>
+                            </div>
+
+                            <div class="form-group">
+
+                                <input class="form-control required" type="text" placeholder="product name"
+                                       name="add-product-name"
+                                       autofocus="autofocus" maxlength="20" required/>
+                            </div>
+                            <div class="form-group">
+
+                                <input class="form-control required" type="text" placeholder="product year"
+                                       name="add-product-year"
+                                       autofocus="autofocus" maxlength="20" required/>
+                            </div>
+                            <div class="form-group">
+
+                                <input class="form-control required" type="text" placeholder="vendor price"
+                                       name="add-vendorprice"
+                                       maxlength="20"/>
+                            </div>
+
+                            <div class="form-group">
+
+                                <input class="form-control required" type="text" placeholder="retail price"
+                                       name="add-retailprice"
+                                       maxlength="20"/>
+                            </div>
+
+                            <div class="form-group">
+
+                                <input class="form-control required" type="text" placeholder="stock" name="add-stock"
+                                       maxlength="10"/>
+                            </div>
+                            <div class="form-group">
+                                <select id="parent-category" class="form-control" name="add-parent-category"></select>
+                            </div>
+                            <div class="form-group">
+                                <select id="child-category" class="form-control" name="add-child-category"></select>
+                            </div>
+                            <div class="form-group">
+
+                                <textarea id="add-desc" class="form-control required" type="text" placeholder="description"
+                                          name="add-desc" rows="5"></textarea>
+                            </div>
+                            <div class="form-group">
+
+                                <input class="form-control required" type="text" placeholder="picture" name="add-picture"
+                                       maxlength="10"/>
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                            <button type="button" class="btn btn-success">Save changes</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="modal fade" id="editProductModal" tabindex="-1" role="dialog"
+                 aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="editProductModalTitle">Edit</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <div class="form-group">
+
+                                <input class="form-control required" type="text" placeholder="product id" name="pid"
+                                       autofocus="autofocus" maxlength="20" hidden/>
+                            </div>
+
+                            <div class="form-group">
+
+                                <input class="form-control required" type="text" placeholder="product name"
+                                       name="product-name"
+                                       autofocus="autofocus" maxlength="20" required/>
+                            </div>
+                            <div class="form-group">
+
+                                <input class="form-control required" type="text" placeholder="vendor price"
+                                       name="vendorprice"
+                                       maxlength="20"/>
+                            </div>
+
+                            <div class="form-group">
+
+                                <input class="form-control required" type="text" placeholder="retail price"
+                                       name="retailprice"
+                                       maxlength="20"/>
+                            </div>
+
+                            <div class="form-group">
+
+                                <input class="form-control required" type="text" placeholder="stock" name="stock"
+                                       maxlength="10"/>
+                            </div>
+                            <div class="form-group">
+
+                                <input class="form-control required" type="text" placeholder="sold" name="sold"
+                                       maxlength="10"/>
+                            </div>
+                            <div class="form-group">
+
+                                <textarea id="desc" class="form-control required" type="text" placeholder="description"
+                                          name="desc" rows="5"></textarea>
+                            </div>
+                            <div class="form-group">
+
+                                <input class="form-control required" type="text" placeholder="picture" name="picture"
+                                       maxlength="10"/>
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                            <button type="button" class="btn btn-success">Save changes</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="modal fade" id="deleteProductModal" tabindex="-1" role="dialog"
+                 aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="deleteProductModalTitle">Edit</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <input class="form-control required" type="text" placeholder="product id" name="del-pid"
+                                   autofocus="autofocus" maxlength="20" hidden/>
+                            <p>Are you sure to delete this product?</p>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">No</button>
+                            <button type="button" class="btn btn-success">Yes</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div id="store" class="container-fluid">
+            <button type="button" class="btn btn-primary" onclick="go_to_add_store();">Add store</button>
+            <hr>
+            <table class="table table-striped">
+                <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>store name</th>
+                    <th>manager name</th>
+                    <th>region name</th>
+                    <th>(manage)</th>
+                </tr>
+
+                </thead>
+                <tbody id="show-store"></tbody>
+            </table>
+
+            <div class="modal fade" id="addStoreModal" tabindex="-1" role="dialog"
+                 aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="addStoreModalTitle">Edit</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+
+                            <div class="form-group">
+
+                                <input class="form-control required" type="text" placeholder="store name"
+                                       name="add-store-name"
+                                       autofocus="autofocus" maxlength="20" required/>
+                            </div>
+                            <div class="form-group">
+                                <select id="add-manager" class="form-control" name="add-manager"></select>
+                            </div>
+
+                            <div class="form-group">
+                                <select id="add-states" class="form-control" name="add-state"></select>
+                            </div>
+
+                            <div class="form-group">
+
+                                <input class="form-control required" type="text" placeholder="city" name="add-store-city"
+                                       maxlength="20"/>
+                            </div>
+                            <div class="form-group">
+
+                                <input class="form-control required" type="text" placeholder="street" name="add-store-street"
+                                       maxlength="20"/>
+                            </div>
+                            <div class="form-group">
+
+                                <input class="form-control required" type="text" placeholder="zip" name="add-store-zip"
+                                       maxlength="20"/>
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                            <button type="button" class="btn btn-success">Save changes</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="modal fade" id="editStoreModal" tabindex="-1" role="dialog"
+                 aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="editStoreModalTitle">Edit</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <div class="form-group">
+
+                                <input class="form-control required" type="text" placeholder="store id" name="store-id"
+                                       autofocus="autofocus" maxlength="20" hidden/>
+                            </div>
+
+                            <div class="form-group">
+
+                                <input class="form-control required" type="text" placeholder="store name"
+                                       name="store-name"
+                                       autofocus="autofocus" maxlength="20" required/>
+                            </div>
+                            <div class="form-group">
+
+                                <input class="form-control required" type="text" placeholder="store manager"
+                                       name="store-manager"
+                                       maxlength="20"/>
+                            </div>
+
+                            <div class="form-group">
+
+                                <input class="form-control required" type="text" placeholder="state"
+                                       name="store-state"
+                                       maxlength="20"/>
+                            </div>
+
+                            <div class="form-group">
+
+                                <input class="form-control required" type="text" placeholder="city" name="store-city"
+                                       maxlength="20"/>
+                            </div>
+                            <div class="form-group">
+
+                                <input class="form-control required" type="text" placeholder="street" name="store-street"
+                                       maxlength="20"/>
+                            </div>
+                            <div class="form-group">
+
+                                <input class="form-control required" type="text" placeholder="zip" name="store-zip"
+                                       maxlength="20"/>
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                            <button type="button" class="btn btn-success">Save changes</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="modal fade" id="deleteStoreModal" tabindex="-1" role="dialog"
+                 aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="deleteStoreModalTitle">Edit</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <input class="form-control required" type="text" placeholder="store id" name="del-storeid"
+                                   autofocus="autofocus" maxlength="20" hidden/>
+                            <p>Are you sure to delete this store?</p>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">No</button>
+                            <button type="button" class="btn btn-success">Yes</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+
+
+        <div id="statistics" class="container-fluid">
+
+            <!-- 导航区 -->
+
+            <div>
+                <ul class="nav nav-tabs" role="tablist">
+                    <li role="presentation" class="nav-item">
+                        <a id="category-tab" class="nav-link active" href="#profit" role="tab"
+                           data-toggle="tab" aria-controls="profit"
+                           aria-selected="true" onclick="show_sales_profit();">Profit
+                        </a>
+                    </li>
+                    <li role="presentation" class="nav-item">
+                        <a id="popular-tab" class="nav-link" href="#popular" role="tab" data-toggle="tab"
+                           aria-controls="popular" aria-selected="false" onclick="show_top_category();">Popular
+                        </a>
+                    </li>
+                    <li role="presentation" class="nav-item">
+                        <a id="region-tab" class="nav-link" href="#region" role="tab" data-toggle="tab"
+                           aria-controls="region" onclick="show_top_region();">Region
+                        </a>
+                    </li>
+                    <li role="presentation" class="nav-item">
+                        <a id="business-tab" class="nav-link" href="#business" role="tab" data-toggle="tab"
+                           aria-controls="business" aria-selected="false">Business
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <br>
+
+            <!-- 面板区 -->
+            <div class="tab-content">
+
+                <!-- Category -->
+                <div role="tabpanel" class="tab-pane active" id="profit">
+                    <div class="row">
+
+                        <table class="table table-striped">
+                            <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>name</th>
+                                <th>sold</th>
+                                <th>sales</th>
+                                <th>profit</th>
+                            </tr>
+
+                            </thead>
+                            <tbody id="show-sales-profit"></tbody>
+                        </table>
+
+                    </div>
+                    <hr>
+                </div>
+
+                <!-- Popular -->
+                <div role="tabpanel" class="tab-pane" id="popular">
+                    <div class="row">
+
+                        <table class="table table-striped">
+                            <thead>
+                            <tr>
+                                <th>name</th>
+                                <th>sales</th>
+                                <th>volume</th>
+                            </tr>
+
+                            </thead>
+                            <tbody id="show-top-category"></tbody>
+                        </table>
+
+                    </div>
+                    <hr>
+                </div>
+
+                <!-- Region -->
+                <div role="tabpanel" class="tab-pane" id="region">
+                    <div class="row">
+
+                        <table class="table table-striped">
+                            <thead>
+                            <tr>
+                                <th>region ID</th>
+                                <th>region name</th>
+                                <th>total sales</th>
+                            </tr>
+
+                            </thead>
+                            <tbody id="show-top-region"></tbody>
+                        </table>
+                    </div>
+                    <hr>
+                </div>
+
+
+                <!-- Business -->
+                <div role="tabpanel" class="tab-pane" id="business">
+                    <div class="row">
+
+                        <div class="input-group col-md-6" style="margin-top:0px; positon:relative">
+                            <input type="text" class="form-control col-md-9" placeholder="please input product id" name="business-pid"/>
+                            <span class="input-group-btn"><button class="btn btn-info btn-search" onclick="show_top_business();">search</button></span>
+                        </div>
+
+                        <table class="table table-striped">
+                            <thead>
+                            <tr>
+                                <th>business ID</th>
+                                <th>business name</th>
+                                <th>business category</th>
+                                <th>product name</th>
+                                <th>quantity bought</th>
+                            </tr>
+
+                            </thead>
+                            <tbody id="show-top-business"></tbody>
+                        </table>
+
+                    </div>
+                    <hr>
+                </div>
+            </div>
+        </div>
+        <!-- /#page-content-wrapper -->
+
+    </div>
+    <!-- /#wrapper -->
+</div>
+
+
+<!-- Bootstrap core JavaScript -->
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+<script>
+
+    let sid, level, regionid;
+
+    if (localStorage.getItem('access_token')) {
+        sid = localStorage.getItem('sid');
+        level = localStorage.getItem('level');
+    }
+
+    function logout() {
+        localStorage.removeItem('access_token');
+        localStorage.removeItem('sid');
+        localStorage.removeItem('level');
+        localStorage.removeItem('addressid');
+        window.location.href = 'admin.html';
+    }
+
+    $(document).ready(function () {
+        if (localStorage.getItem('access_token') && localStorage.getItem('sid')) {
+            $('#wrapper').show();
+            $('#staff_logout').show();
+            show_staff();
+        } else {
+            $('#wrapper').hide();
+            $('#staff_logout').hide();
+            $('#staff').hide();
+            $('#store').hide();
+            $('#product').hide();
+            $('#statistics').hide();
+            $('#staffLoginModal').modal('show');
+        }
+    });
+
+    $("#menu-toggle").click(function (e) {
+        e.preventDefault();
+        $("#wrapper").toggleClass("toggled");
+    });
+
+    function staff_login() {
+        $.ajax({
+            type: 'post',
+            url: "../php/admin.php",
+            data: 'action=staff_login&email=' + $('input[name=staff-login-email]').val() + '&password=' + $('input[name=staff-login-password]').val(),
+            dataType: "json",
+            success: function (data) {
+                if (data == 0) {
+                    alert('Wrong username.');
+                } else if (data == 1) {
+                    alert('Wrong password.');
+                } else {
+                    localStorage.setItem('access_token', data['access_token']);
+                    localStorage.setItem('sid', data['sid']);
+                    localStorage.setItem('level', data['level']);
+                    localStorage.setItem('addressid', data['addressid']);
+                    window.location.href = 'admin.html';
+                }
+            },
+            error: function () {
+                alert('Sry, something wrong with the server...');
+            }
+        });
+    }
+
+    function show_staff() {
+        $('#statistics').hide();
+        $('#staff').show();
+        $('#store').hide();
+        $('#product').hide();
+        $.ajax({
+            type: 'get',
+            url: "../php/admin.php",
+            data: 'sid=' + sid + '&action=get_staff_detail',
+            dataType: "json",
+            success: function (data) {
+                if (data != 0) {
+                    for (let i = 0; i < data.length; i++) {
+                        $(".staff-name").text(data[i].sname);
+                        $(".staff-email").text(data[i].email);
+                        $(".staff-salary").text(data[i].salary);
+                        $(".staff-password").text(data[i].password);
+                        $(".staff-position").text(data[i].position);
+                        $(".staff-state").text(data[i].stname);
+                        $(".staff-city").text(data[i].city);
+                        $(".staff-zip").text(data[i].zipcode);
+                        $(".staff-street").text(data[i].street);
+                        // $('input[name=username]').val(data[i].cname);
+                        // $('input[name=password]').val(data[i].password);
+                        // $('input[name=email]').val(data[i].email);
+                        // $('input[name=income]').val(data[i].gai);
+                        // $('input[name=zipcode]').val(data[i].zipcode);
+                        // $('input[name=city]').val(data[i].city);
+                        // $('input[name=address]').val(data[i].street);
+                        // $('select[name=gender]').val(list_gender_conditions(data[i].gender));
+                        // $('select[name=married]').val(list_married_conditions(data[i].married));
+                        // $('input[name=age]').val(data[i].age)
+                    }
+                } else {
+                    alert('Sry, something wrong with the server...');
+                }
+            },
+            error: function () {
+                alert('Sry, something wrong with the server...');
+            }
+        });
+    }
+
+    function show_product() {
+        $('#statistics').hide();
+        $('#staff').hide();
+        $('#store').hide();
+        $('#product').show();
+        $.ajax({
+            type: 'get',
+            url: "../php/admin.php",
+            data: 'action=view_product',
+            dataType: "json",
+            success: function (data) {
+                if (data !== 0) {
+                    $("#show-product").html('');
+                    for (let i = 0; i < data.length; i++) {
+                        $('#show-product').append('<tr>' +
+                            '<td>' + data[i].id + '</td>' +
+                            '<td>' + data[i].name + '</td>\n' +
+                            '<td>' + data[i].vendorprice + '</td>' +
+                            '<td>' + data[i].retailprice + '</td>' +
+                            '<td>' + data[i].stock + '</td>' +
+                            '<td>' + data[i].sold + '</td>' +
+                            '<td hidden>' + data[i].description + '</td>' +
+                            '<td hidden>' + data[i].picture + '</td>' +
+                            '<td><span><a href="javascript:;" onclick="go_to_edit_product(this);">edit</a> <a href="javascript:;" onclick="go_to_delete_product(this);">delete</a></span></td>' +
+                            '</tr>');
+                    }
+                } else {
+                    alert('Sry, something wrong with the server...');
+                }
+            },
+            error: function () {
+                alert('Sry, something wrong with the server...');
+            }
+        });
+    }
+
+    function get_parent_category() {
+        $.ajax({
+            type: 'get',
+            url: "../php/product.php",
+            data: 'action=get_parent_category',
+            dataType: "json",
+            success: function (data) {
+                if (data !== 0) {
+                    $("#parent-category").html('');
+                    for (let i = 0; i < data.length; i++) {
+                        $("#parent-category").append('<option value="'+data[i].id+'">'+data[i].name+'</option>');
+                    }
+                } else {
+                    alert('Sry, something wrong with the server...');
+                }
+            },
+            error: function () {
+                alert('Sry, something wrong with the server...');
+            }
+        });
+    }
+
+    $("#parent-category").change(function () {
+        get_child_category();
+    });
+
+    function get_child_category() {
+        $.ajax({
+            type: 'get',
+            url: "../php/product.php",
+            data: 'action=get_child_category&parent_category=' + $('#parent-category').val(),
+            dataType: "json",
+            success: function (data) {
+                if (data !== 0) {
+                    $("#child-category").html('');
+                    for (let i = 0; i < data.length; i++) {
+                        $("#child-category").append('<option value="'+data[i].id+'">'+data[i].name+'</option>');
+                    }
+                } else {
+                    alert('Sry, something wrong with the server...');
+                }
+            },
+            error: function () {
+                alert('Sry, something wrong with the server...');
+            }
+        });
+    }
+
+    function go_to_product() {
+        if (level < 3) {
+            alert('You have no access');
+        } else {
+            $('#addProductModal').modal('show');
+            get_parent_category();
+        }
+    }
+
+    $("#addProductModal").on("click", ".btn-success", function () {
+        add_product();
+    });
+
+    function add_product() {
+        let d = {
+            action: 'add_product',
+            name: $("input[name=add-product-name]").val(),
+            year: $('input[name=add-product-year]').val(),
+            vp: $("input[name=add-vendorprice]").val(),
+            rp: $("input[name=add-retailprice]").val(),
+            stock: $("input[name=add-stock]").val(),
+            desc: $("#add-desc").val(),
+            picture: $("input[name=add-picture]").val(),
+            cate: $('#child-category').val(),
+            pcate: $('#parent-category').val()
+        };
+        $.ajax({
+            type: 'POST',
+            url: "../php/admin.php",
+            data: d,
+            dataType: "json",
+            success: function (data) {
+                if (data !== 0) {
+                    alert('You have been successfully add the product.');
+                    $('#addProductModal').modal('hide');
+                } else {
+                    alert('Sry, something wrong with the server...');
+                }
+            },
+            error: function () {
+                alert('Sry, something wrong with the server...');
+            }
+        });
+    }
+
+    function go_to_edit_product(obj) {
+        if (level < 3) {
+            alert('You have no access');
+        } else {
+            let tds = $(obj).parents('tr').children('td');
+            $("input[name=pid]").val(tds.eq(0).text());
+            $("input[name=product-name]").val(tds.eq(1).text());
+            $("input[name=vendorprice]").val(tds.eq(2).text());
+            $("input[name=retailprice]").val(tds.eq(3).text());
+            $("input[name=stock]").val(tds.eq(4).text());
+            $("input[name=sold]").val(tds.eq(5).text());
+            $("#desc").val(tds.eq(6).text());
+            $("input[name=picture]").val(tds.eq(7).text());
+            $("#editProductModal").modal('show');
+        }
+    };
+
+    $("#editProductModal").on("click", ".btn-success", function () {
+        edit_product();
+    });
+
+    function edit_product() {
+        let d = {
+            action: 'update_product',
+            pid: $("input[name=pid]").val(),
+            name: $("input[name=product-name]").val(),
+            vp: $("input[name=vendorprice]").val(),
+            rp: $("input[name=retailprice]").val(),
+            stock: $("input[name=stock]").val(),
+            sold: $("input[name=sold]").val(),
+            desc: $("#desc").val(),
+            picture: $("input[name=picture]").val()
+        };
+        $.ajax({
+            type: 'POST',
+            url: "../php/admin.php",
+            data: d,
+            dataType: "json",
+            success: function (data) {
+                if (data !== 0) {
+                    alert('You have been successfully edited the product.');
+                    $('#editProductModal').modal('hide');
+                } else {
+                    alert('Sry, something wrong with the server...');
+                }
+            },
+            error: function () {
+                alert('Sry, something wrong with the server...');
+            }
+        });
+    }
+
+    $('#editProductModal').on('hidden.bs.modal', function (e) {
+        show_product();
+    });
+
+    function go_to_delete_product(obj) {
+        if (level < 3) {
+            alert('You have no access');
+        } else {
+            let tds = $(obj).parents('tr').children('td');
+            $('input[name=del-pid]').val(tds.eq(0).text());
+            $("#deleteProductModal").modal('show');
+        }
+    }
+
+    $("#deleteProductModal").on("click", ".btn-success", function () {
+        $.ajax({
+            type: 'POST',
+            url: "../php/admin.php",
+            data: 'action=delete_product&pid=' + $("input[name=del-pid]").val(),
+            dataType: "json",
+            success: function (data) {
+                if (data !== 0) {
+                    alert('You have been successfully deleted the product.');
+                    $('#deleteProductModal').modal('hide');
+                } else {
+                    alert('Sry, something wrong with the server...');
+                }
+            },
+            error: function () {
+                alert('Sry, something wrong with the server...');
+            }
+        });
+    });
+
+    $('#deleteProductModal').on('hidden.bs.modal', function () {
+        show_product();
+    });
+
+
+    function show_store() {
+        $('#statistics').hide();
+        $('#staff').hide();
+        $('#store').show();
+        $('#product').hide();
+        $.ajax({
+            type: 'get',
+            url: "../php/admin.php",
+            data: 'action=view_store',
+            dataType: "json",
+            success: function (data) {
+                if (data !== 0) {
+                    $("#show-store").html('');
+                    for (let i = 0; i < data.length; i++) {
+                        $('#show-store').append('<tr>' +
+                            '<td>' + data[i].id + '</td>' +
+                            '<td>' + data[i].storename + '</td>' +
+                            '<td>' + data[i].mgrname + '</td>' +
+                            '<td>' + data[i].regionname + '</td>' +
+                            '<td hidden>' + data[i].statename + '</td>' +
+                            '<td hidden>' + data[i].city + '</td>' +
+                            '<td hidden>' + data[i].street + '</td>' +
+                            '<td hidden>' + data[i].zipcode + '</td>' +
+                            '<td><span><a href="javascript:;" onclick="go_to_edit_store(this);">edit</a> <a href="javascript:;" onclick="go_to_delete_store(this);">delete</a></span></td>' +
+                            '</tr>');
+                    }
+                } else {
+                    alert('Sry, something wrong with the server...');
+                }
+            },
+            error: function () {
+                alert('Sry, something wrong with the server...');
+            }
+        });
+    }
+
+    function go_to_edit_store(obj) {
+        if (level < 4) {
+            alert('You have no access');
+        } else {
+            let tds = $(obj).parents('tr').children('td');
+            $("input[name=store-id]").val(tds.eq(0).text());
+            $("input[name=store-name]").val(tds.eq(1).text());
+            $("input[name=store-manager]").val(tds.eq(2).text());
+            $("input[name=store-state]").val(tds.eq(3).text());
+            $("input[name=store-city]").val(tds.eq(4).text());
+            $("input[name=store-street]").val(tds.eq(5).text());
+            $("input[name=store-zip]").val(tds.eq(6).text());
+            $("#editStoreModal").modal('show');
+        }
+    }
+
+    $("#editStoreModal").on("click", ".btn-success", function () {
+        let d = {
+            action: 'edit_store',
+            id: $("input[name=store-id]").val(),
+            name: $("input[name=store-name]").val()
+        };
+        $.ajax({
+            type: 'POST',
+            url: "../php/admin.php",
+            data: d,
+            dataType: "json",
+            success: function (data) {
+                if (data !== 0) {
+                    alert('You have been successfully edited the store.');
+                    $('#editStoreModal').modal('hide');
+                } else {
+                    alert('Sry, something wrong with the server...');
+                }
+            },
+            error: function () {
+                alert('Sry, something wrong with the server...');
+            }
+        });
+    });
+
+    $('#editStoreModal').on('hidden.bs.modal', function (e) {
+        show_store();
+    });
+
+    function go_to_delete_store(obj) {
+        if (level < 4) {
+            alert('You have no access');
+        } else {
+            let tds = $(obj).parents('tr').children('td');
+            $('input[name=del-storeid]').val(tds.eq(0).text());
+            $("#deleteStoreModal").modal('show');
+        }
+    }
+
+    $("#deleteStoreModal").on("click", ".btn-success", function () {
+        $.ajax({
+            type: 'POST',
+            url: "../php/admin.php",
+            data: 'action=delete_store&storeid=' + $("input[name=del-storeid]").val(),
+            dataType: "json",
+            success: function (data) {
+                if (data !== 0) {
+                    alert('You have been successfully deleted the store.');
+                    $('#deleteStoreModal').modal('hide');
+                } else {
+                    alert('Sry, something wrong with the server...');
+                }
+            },
+            error: function () {
+                alert('Sry, something wrong with the server...');
+            }
+        });
+    });
+
+    $('#deleteStoreModal').on('hidden.bs.modal', function (e) {
+        show_store();
+    });
+
+    function go_to_add_store() {
+        if (level < 4) {
+            alert('You have no access');
+        } else {
+            $('#addStoreModal').modal('show');
+            get_states();
+            get_region();
+            get_available_staff();
+        }
+    }
+
+    $('#addStoreModal').on("click", ".btn-success", function () {
+        add_store();
+    });
+
+    $('#addStoreModal').on('hidden.bs.modal', function (e) {
+        show_store();
+    });
+
+    function get_states() {
+        $.ajax({
+            type: 'get',
+            url: "../php/customer.php",
+            data: 'action=get_states',
+            dataType: "json",
+            success: function (data) {
+                if (data !== 0) {
+                    $("#add-states").html('');
+                    for (let i = 0; i < data.length; i++) {
+                        $("#add-states").append('<option value="'+data[i].id+'">'+data[i].name+'</option>');
+                    }
+                } else {
+                    alert('Sry, something wrong with the server...');
+                }
+            },
+            error: function () {
+                alert('Sry, something wrong with the server...');
+            }
+        });
+    }
+
+    function get_region() {
+        $.ajax({
+            type: 'get',
+            url: "../php/admin.php",
+            data: 'action=get_regionid&mgrid=' + 203,
+            dataType: "json",
+            success: function (data) {
+                if (data !== 0) {
+                    regionid = data;
+                } else {
+                    alert('Sry, something wrong with the server...');
+                }
+            },
+            error: function () {
+                alert('Sry, something wrong with the server...');
+            }
+        });
+    }
+
+    function get_available_staff() {
+        $.ajax({
+            type: 'get',
+            url: "../php/admin.php",
+            data: 'action=get_staff',
+            dataType: "json",
+            success: function (data) {
+                if (data !== 0) {
+                    $("#add-manager").html('');
+                    for (let i = 0; i < data.length; i++) {
+                        $("#add-manager").append('<option value="'+data[i].id+'">'+data[i].name+' '+data[i].level+' '+data[i].position+'</option>');
+                    }
+                } else {
+                    alert('Sry, something wrong with the server...');
+                }
+            },
+            error: function () {
+                alert('Sry, something wrong with the server...');
+            }
+        });
+    }
+
+    function add_store() {
+        let d = {
+            action: 'add_store',
+            name: $("input[name=add-store-name]").val(),
+            manager: $("select[name=add-manager]").val(),
+            state: $("select[name=add-state]").val(),
+            city: $("input[name=add-store-city]").val(),
+            street: $("input[name=add-store-street]").val(),
+            zip: $("input[name=add-store-zip]").val(),
+            regionid: regionid
+        };
+        $.ajax({
+            type: 'POST',
+            url: "../php/admin.php",
+            data: d,
+            dataType: "json",
+            success: function (data) {
+                if (data !== 0) {
+                    alert('You have been successfully added a store.');
+                    $('#addStoreModal').modal('hide');
+                } else {
+                    alert('Sry, something wrong with the server...');
+                }
+            },
+            error: function () {
+                alert('Sry, something wrong with the server...');
+            }
+        });
+    }
+
+    function show_statistics() {
+        $('#statistics').show();
+        $('#staff').hide();
+        $('#store').hide();
+        $('#product').hide();
+        show_sales_profit();
+    }
+
+    function show_sales_profit() {
+        $.ajax({
+            type: 'get',
+            url: "../php/admin.php",
+            data: 'action=view_sales_profit',
+            dataType: "json",
+            success: function (data) {
+                if (data !== 0) {
+                    $("#show-sales-profit").html('');
+                    for (let i = 0; i < data.length; i++) {
+                        $('#show-sales-profit').append('<tr>' +
+                            '<td>' + data[i].id + '</td>' +
+                            '<td>' + data[i].name + '</td>' +
+                            '<td>' + data[i].sold + '</td>' +
+                            '<td>' + data[i].sales + '</td>' +
+                            '<td>' + data[i].profit + '</td>' +
+                            '</tr>');
+                    }
+                } else {
+                    alert('Sry, something wrong with the server...');
+                }
+            },
+            error: function () {
+                alert('Sry, something wrong with the server...');
+            }
+        });
+    }
+
+    function show_top_category() {
+        $.ajax({
+            type: 'get',
+            url: "../php/admin.php",
+            data: 'action=view_top_category',
+            dataType: "json",
+            success: function (data) {
+                if (data !== 0) {
+                    $('#show-top-category').html('');
+                    for (let i = 0; i < data.length; i++) {
+                        $('#show-top-category').append('<tr>' +
+                            '<td>' + data[i].name + '</td>' +
+                            '<td>' + data[i].sales + '</td>' +
+                            '<td>' + data[i].volume + '</td>' +
+                            '</tr>');
+                    }
+                } else {
+                    alert('Sry, something wrong with the server...');
+                }
+            },
+            error: function () {
+                alert('Sry, something wrong with the server...');
+            }
+        });
+    }
+
+    function show_top_region() {
+        $.ajax({
+            type: 'get',
+            url: "../php/admin.php",
+            data: 'action=view_top_region',
+            dataType: "json",
+            success: function (data) {
+                if (data !== 0) {
+                    $('#show-top-region').html('');
+                    for (let i = 0; i < data.length; i++) {
+                        $('#show-top-region').append('<tr>' +
+                            '<td>' + data[i].id + '</td>' +
+                            '<td>' + data[i].name + '</td>' +
+                            '<td>' + data[i].sales + '</td>' +
+                            '</tr>');
+                    }
+                } else {
+                    alert('Sry, something wrong with the server...');
+                }
+            },
+            error: function () {
+                alert('Sry, something wrong with the server...');
+            }
+        });
+    }
+
+    function show_top_business() {
+        $.ajax({
+            type: 'get',
+            url: "../php/admin.php",
+            data: 'action=view_top_business&pid=' + $('input[name=business-pid]').val(),
+            dataType: "json",
+            success: function (data) {
+                if (data !== 0) {
+                    $('#show-top-business').html('');
+                    for (let i = 0; i < data.length; i++) {
+                        $('#show-top-business').append('<tr>' +
+                            '<td>' + data[i].id + '</td>' +
+                            '<td>' + data[i].cname + '</td>' +
+                            '<td>' + data[i].category + '</td>' +
+                            '<td>' + data[i].pname + '</td>' +
+                            '<td>' + data[i].quantity + '</td>' +
+                            '</tr>');
+                    }
+                } else {
+                    alert('Sry, something wrong with the server...');
+                }
+            },
+            error: function () {
+                alert('Sry, something wrong with the server...');
+            }
+        });
+    }
+
+
+</script>
+
+</body>
+
+</html>

@@ -1,0 +1,893 @@
+www.avbuyer.com/aircraft/turboprops/piper/meridian/354391;;Piper Meridian;;2001;;tba;;1999
+www.avbuyer.com/aircraft/single-piston/mooney/252/354390;;Mooney 252;;1988;;tba;;2600
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/900ex/353383;;Dassault Falcon 900EX;;1998;;38;;5431
+www.avbuyer.com/aircraft/turboprops/beechcraft/king-air-350i/354389;;Beechcraft King Air 350i;;2012;;FL-793;;961 hours
+www.avbuyer.com/aircraft/turboprops/socata/tbm-850/354388;;Socata TBM 850;;2011;;574;;1145
+www.avbuyer.com/aircraft/private-jets/cessna-citation/mustang/354387;;Cessna Citation Mustang;;2012;;510-0423;;512
+www.avbuyer.com/aircraft/private-jets/cessna-citation/x/354386;;Cessna Citation X;;1998;;750-0041;;4738.4
+www.avbuyer.com/aircraft/twin-piston/cessna/414/354385;;Cessna 414 A;;1979;;414A-0278;; 6748
+www.avbuyer.com/aircraft/single-piston/cessna/t182-turbo-skylane/350735;;Cessna T182 Turbo Skylane;;2007;;T18208662;;1055
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/800xp/353966;;Hawker Beechcraft 800XP;;2005;;258704;;2646.4
+www.avbuyer.com/aircraft/private-jets/bombardier-learjet/45xr/354384;;Bombardier Learjet 45XR;;2006;;45-315;;8415 
+www.avbuyer.com/aircraft/private-jets/beechcraft/beechjet-400a/354383;;Beechcraft Beechjet 400A;;2003;;RK-348;;6488.5
+www.avbuyer.com/aircraft/private-jets/cessna-citation/v/350703;;Cessna Citation V;;1990;;560-0058;;6829
+www.avbuyer.com/aircraft/single-piston/beechcraft/a36-bonanza/351709;;Beechcraft A36 Bonanza;;1998;;E3220;;1560
+www.avbuyer.com/aircraft/private-jets/bombardier-global/6000/354381;;Bombardier Global 6000;;2014;;9537;;1402:03
+www.avbuyer.com/aircraft/private-jets/bombardier-learjet/60xr/290958;;Bombardier Learjet 60XR;;2007;;0319;;5254
+www.avbuyer.com/aircraft/twin-piston/beechcraft/g58-baron/354380;;Beechcraft G58 Baron;;2008;;TH-2245;;1,150
+www.avbuyer.com/aircraft/private-jets/embraer/Phenom-100E/354379;;Embraer Phenom 100E;;2015;;50000362;;580
+www.avbuyer.com/aircraft/helicopter/piston/robinson/r44-clipper-ii/354378;;Robinson R44 Clipper II;;2008;;12484;;1100
+www.avbuyer.com/aircraft/private-jets/cessna-citation/cj2-plus/353244;;Cessna Citation CJ2+;;2012;;C525A-0487;;3.200
+www.avbuyer.com/aircraft/private-jets/bombardier-learjet/60/351287;;Bombardier Learjet 60;;1999;;174;;8500
+www.avbuyer.com/aircraft/helicopter/turbine/bell-helicopters/430/352433;;Bell 430;;2001;;49074 ;;3,398
+www.avbuyer.com/aircraft/turboprops/beechcraft/king-air-c90b/354377;;Beechcraft King Air C90B;;1999;;LJ-1551;;4542.7
+www.avbuyer.com/aircraft/private-jets/bombardier-challenger/350/354182;;Bombardier Challenger 350;;2014;;20522 ;;1861
+www.avbuyer.com/aircraft/private-jets/cessna-citation/xls-plus/354376;;Cessna Citation XLS+;;2017;;560-6221;;382 hours
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/as-355n/354375;;Airbus/Eurocopter AS 355N;;2000;;AH-255;;4558
+www.avbuyer.com/aircraft/private-jets/cessna-citation/mustang/354374;;Cessna Citation Mustang;;2009;;510-0190;;1356
+www.avbuyer.com/aircraft/private-jets/cessna-citation/cj4/354373;;Cessna Citation CJ4;;2015;;525C-0183;;365
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/900lx/354372;;Dassault Falcon 900LX;;2013;;-;;1295
+www.avbuyer.com/aircraft/private-jets/cessna-citation/encore/354371;;Cessna Citation Encore;;2002;;598;;6698
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/2000ex-easy/354370;;Dassault Falcon 2000EX EASy;;2006;;76;;6660
+www.avbuyer.com/aircraft/turboprops/fairchild/metro-iiib/354369;;Fairchild Metro IIIB;;1987;;AC-679B;;30,429.8
+www.avbuyer.com/aircraft/turboprops/fairchild/metro-iiib/354368;;Fairchild Metro IIIB;;1986;;AC-658B;;34,016.0
+www.avbuyer.com/aircraft/turboprops/fairchild/metro-iiib/354367;;Fairchild Metro IIIB;;1987;;AC-689B;;29,898.9
+www.avbuyer.com/aircraft/private-jets/cessna-citation/cj1/353696;;Cessna Citation CJ1;;2001;;525-0439;;1581.4
+www.avbuyer.com/aircraft/twin-piston/tecnam/p2006/353796;;Tecnam P2006;;2016;;152;;205.5
+www.avbuyer.com/aircraft/private-jets/cessna-citation/cj3/354363;;Cessna Citation CJ3;;2008;;525B-0275;;1.500 hours since new
+www.avbuyer.com/aircraft/helicopter/turbine/bell-helicopters/427/354362;;Bell 427;;2001;;56024;;2922
+www.avbuyer.com/aircraft/turboprops/beechcraft/king-air-350i/354297;;Beechcraft King Air 350i;;2015;;FL-1032;;1,096
+www.avbuyer.com/aircraft/turboprops/beechcraft/king-air-350i/353977;;Beechcraft King Air 350i;;2010;;FL-727;;2,345
+www.avbuyer.com/aircraft/single-piston/aviat/husky/353771;;Aviat Husky;;2004;;-;;700
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/as-350sd2/353476;;Airbus/Eurocopter AS 350SD2;;1990;;2353;;3824.5
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/ec-130b4/354071;;Airbus/Eurocopter EC 130B4;;2004;;TBD;;5010
+www.avbuyer.com/aircraft/turboprops/aero-commander/500/353176;;Aero Commander 500 S Shrike;;1975;;3235;;2,879
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/900xp/353675;;Hawker Beechcraft 900XP;;2009;;HA-140;;0
+www.avbuyer.com/aircraft/helicopter/turbine/sikorsky/s-92/352316;;Sikorsky S-92 A;;2011;;TBD;;3436
+www.avbuyer.com/aircraft/helicopter/turbine/agusta/a109/353772;;Agusta A109 S;;2009;;22119;;595
+www.avbuyer.com/aircraft/helicopter/turbine/agusta/a109c/350336;;Agusta A109C;;1995;;7665;;6927
+www.avbuyer.com/aircraft/helicopter/turbine/bell-helicopters/206b-iii/354361;;Bell 206B III;;1980;;8596;;7765
+www.avbuyer.com/aircraft/helicopter/turbine/robinson/r66/293864;;Robinson R66;;2015;;TBD;;200
+www.avbuyer.com/aircraft/private-jets/beechcraft/premier-1/352214;;Beechcraft Premier 1;;2005;;RB-0131;;4432
+www.avbuyer.com/aircraft/helicopter/turbine/Aerospatiale/Gazelle/354359;;Aerospatiale Gazelle;;1975;;1385;;12350
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/800xp/354360;;Hawker Beechcraft 800XP;;2003;;258632;;4,875
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/2000lx/352397;;Dassault Falcon 2000LX;;2008;;136;;2301
+www.avbuyer.com/aircraft/single-piston/cessna/182p-skylane/354358;;Cessna 182P Skylane;;1974;;182-62473;;4018 hours
+www.avbuyer.com/aircraft/private-jets/embraer/phenom-100/354357;;Embraer Phenom 100;;2010;;50000199;;1.145,6 
+www.avbuyer.com/aircraft/private-jets/boeing/bbj/354356;;Boeing BBJ;;2001;;30330;;6,009 
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/7x/354355;;Dassault Falcon 7X;;2012;;142;;1538
+www.avbuyer.com/aircraft/private-jets/bombardier-challenger/300/354354;;Bombardier Challenger 300;;2012;;TBD;;2596
+www.avbuyer.com/aircraft/private-jets/bombardier-challenger/300/354353;;Bombardier Challenger 300;;2012;;TBD;;2508
+www.avbuyer.com/aircraft/private-jets/bombardier-global/5000/354352;;Bombardier Global 5000;;2011;;9425;;1989
+www.avbuyer.com/aircraft/helicopter/piston/robinson/r44/354351;;Robinson R44;;2016;;30014;;1,740 hrs
+www.avbuyer.com/aircraft/single-piston/cirrus/SR22G5GTS/351492;;Cirrus SR22 G5 GTS;;2014;;TBD;;460
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/2000ex-easy/351194;;Dassault Falcon 2000EX EASy;;2007;;113;;2491
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/4000/353243;;Hawker Beechcraft 4000;;2010;;RC-44;; 1596 
+www.avbuyer.com/aircraft/helicopter/turbine/agusta/a109s-grand/354350;;Agusta A109S Grand;;2009;;22137;;900
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/400xp/354349;;Hawker Beechcraft 400XP;;2005;;-;;2018
+www.avbuyer.com/aircraft/helicopter/turbine/agusta/aw109s-grand/354348;;Agusta AW109S Grand;;2008;;22087;;970
+www.avbuyer.com/aircraft/private-jets/embraer/phenom-300/354347;;Embraer Phenom 300;;2010;;-;;1470
+www.avbuyer.com/aircraft/private-jets/bombardier-learjet/40xr/354346;;Bombardier Learjet 40XR;;2005;;TBD;;6484
+www.avbuyer.com/aircraft/private-jets/cessna-citation/525/354344;;Cessna Citation 525;;1998;;525-0292;;4.010
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/2000/354345;;Dassault Falcon 2000;;2004;;217;;4600
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/ec-135t2/354343;;Airbus/Eurocopter EC 135T2;;2004;;AH-260;;3766
+www.avbuyer.com/aircraft/private-jets/cessna-citation/bravo/354342;;Cessna Citation Bravo;;2003;;TBD;;3,600 
+www.avbuyer.com/aircraft/private-jets/cessna-citation/cj1/354341;;Cessna Citation CJ1;;2004;;525-0531;;2,280
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/850xp/352666;;Hawker Beechcraft 850XP;;2006;;258755;;3058:47
+www.avbuyer.com/aircraft/private-jets/embraer/legacy-650/354340;;Embraer Legacy 650;;2013;;114501161;;1,366
+www.avbuyer.com/aircraft/private-jets/gulfstream/g550/354339;;Gulfstream G550;;2010;;5279;;3,660
+www.avbuyer.com/aircraft/single-piston/cessna/p210/354335;;Cessna P210 Silver Eagle;;1999;;TBD;;4.900 
+www.avbuyer.com/aircraft/private-jets/bombardier-challenger/605/354334;;Bombardier Challenger 605;;2012;;5879;;0
+www.avbuyer.com/aircraft/turboprops/beechcraft/king-air-e90/352642;;Beechcraft King Air E90;;1980;;LW-329;;8,529
+www.avbuyer.com/aircraft/turboprops/beechcraft/king-air-b200/354333;;Beechcraft King Air B200;;1984;;BB-1144 ;;11.548
+www.avbuyer.com/aircraft/turboprops/piaggio/p-180-avanti/352680;;Piaggio P-180 Avanti;;2004;;1092;;9214
+www.avbuyer.com/aircraft/helicopter/piston/robinson/r44-clipper-ii/354332;;Robinson R44 Clipper II;;2004;;10314;;1218
+www.avbuyer.com/aircraft/helicopter/turbine/airbus/h125/354330;;Airbus H125;;2014;;7800;;800
+www.avbuyer.com/aircraft/private-jets/cessna-citation/mustang/354329;;Cessna Citation Mustang;;2009;;510-0200;;2,025
+www.avbuyer.com/aircraft/private-jets/embraer/legacy-650/352167;;Embraer Legacy 650;;2010;;14501126;;3935.9.
+www.avbuyer.com/aircraft/private-jets/bombardier-challenger/604/354328;;Bombardier Challenger 604;;1999;;5428;;6629
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/800xp/354327;;Hawker Beechcraft 800XP;;2000;;258467;;4586
+www.avbuyer.com/aircraft/turboprops/cessna/grand-caravan-ex/354326;;Cessna Grand Caravan EX;;2018;;208B-5315;;21 Hours
+www.avbuyer.com/aircraft/private-jets/cessna-citation/cj3/352590;;Cessna Citation CJ3;;2004;;525B-0008;;5331
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/750/354325;;Hawker Beechcraft 750;;2008;;HB-0014;;3648 
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/800xp/292719;;Hawker Beechcraft 800XP;;1997;;258334;;4888
+www.avbuyer.com/aircraft/light/cessna/182/353444;;Cessna 182;;1989;;-;;0
+www.avbuyer.com/aircraft/private-jets/bombardier-challenger/604/354324;;Bombardier Challenger 604;;1997;;5334;;7,471
+www.avbuyer.com/aircraft/turboprops/beechcraft/king-air-300/353976;;Beechcraft King Air 300;;1989;;FA-190;;6,180.4
+www.avbuyer.com/aircraft/private-jets/bombardier-global/express/354323;;Bombardier Global Express;;2003;;9118;;5,085
+www.avbuyer.com/aircraft/private-jets/cessna-citation/cj3/354321;;Cessna Citation CJ3;;2007;;156;;2736
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/7x/354320;;Dassault Falcon 7X;;2014;;212;;1150
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/900ex-easy/354319;;Dassault Falcon 900EX EASy;;2007;;190;;2131
+www.avbuyer.com/aircraft/turboprops/socata/tbm-850/354318;;Socata TBM 850;;2007;;413;;1020
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/as-365n-2/354317;;Airbus/Eurocopter AS 365N-2;;1991;;-;;5640 Hours
+www.avbuyer.com/aircraft/private-jets/gulfstream/g450/354316;;Gulfstream G450;;2010;;4190;;956
+www.avbuyer.com/aircraft/private-jets/bombardier-challenger/300/354315;;Bombardier Challenger 300;;2012;;20379;;1034
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/800xp/353594;;Hawker Beechcraft 800XP;;1999;;258436;;11,761.6
+www.avbuyer.com/aircraft/twin-piston/diamond/da-42-ng/354314;;Diamond DA-42 NG Twinstar;;2006;;42.180;;2093:58
+www.avbuyer.com/aircraft/private-jets/bombardier-global/5000/352668;;Bombardier Global 5000;;2008;;9269;;4028:08
+www.avbuyer.com/aircraft/private-jets/bombardier-global/6000/352861;;Bombardier Global 6000;;2015;;9622;;608
+www.avbuyer.com/aircraft/private-jets/gulfstream/iv/354313;;Gulfstream IV;;1989;;1092;;7036.8
+www.avbuyer.com/aircraft/single-piston/cessna/172/353318;;Cessna 172;;1968;;-;;4510
+www.avbuyer.com/aircraft/private-jets/cessna-citation/cj3/354310;;Cessna Citation CJ3;;2006;;525B-0061;;4,450
+www.avbuyer.com/aircraft/turboprops/beechcraft/king-air-350/354309;;Beechcraft King Air 350;;2008;;FL-580;;2,612.8
+www.avbuyer.com/aircraft/private-jets/cessna-citation/xls/354308;;Cessna Citation XLS;;2008;;560-5815;;4,150
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/400xp/352420;;Hawker Beechcraft 400XP;;2005;;RK-419;;4,672
+www.avbuyer.com/aircraft/private-jets/gulfstream/g200/354111;;Gulfstream G200;;1999;;005;;6712
+www.avbuyer.com/aircraft/private-jets/cessna-citation/cj3/354307;;Cessna Citation CJ3;;2005;;525B-0028;;2480
+www.avbuyer.com/aircraft/private-jets/bombardier-learjet/45xr/354306;;Bombardier Learjet 45XR;;2010;;405;;2,820
+www.avbuyer.com/aircraft/helicopter/turbine/bell-helicopters/206b-ii/354305;;Bell 206B II;;1976;;-;;17590
+www.avbuyer.com/aircraft/twin-piston/tecnam/p2006/354304;;Tecnam P2006;;2013;;-;;1084
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/2000/351456;;Dassault Falcon 2000;;2005;;224;;4996.9
+www.avbuyer.com/aircraft/private-jets/cessna-citation/bravo/354303;;Cessna Citation Bravo;;2001;;550-0961;;4,126 	
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/as-350b-3/354302;;Airbus/Eurocopter AS 350B-3;;2008;;4565;;825 H
+www.avbuyer.com/aircraft/turboprops/piaggio/p-180-avanti-ii/352963;;Piaggio P-180 Avanti II;;2009;;1196;;1'145
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/as-350b-2/353711;;Airbus/Eurocopter AS 350B-2;;1994;;2827;;5535
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/50ex/354301;;Dassault Falcon 50EX;;2000;;295;;6,575
+www.avbuyer.com/aircraft/private-jets/bombardier-learjet/75/354300;;Bombardier Learjet 75;;2017;;45-559;;285 
+www.avbuyer.com/aircraft/private-jets/bombardier-challenger/300/354002;;Bombardier Challenger 300;;2007;;20142;;2724
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/as-350b-3/354298;;Airbus/Eurocopter AS 350B-3;;2018;;AH-258;;60
+www.avbuyer.com/aircraft/private-jets/bombardier-global/express/353795;;Bombardier Global Express;;2001;;9050;;0
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/50ex/354296;;Dassault Falcon 50EX;;2001;;309;;8556
+www.avbuyer.com/aircraft/private-jets/honda/HondaJet/353541;;Honda HondaJet;;2018;;4200094;;40
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/as-365n-3/354295;;Airbus/Eurocopter AS 365N-3;;1991;;AH-248;;19265
+www.avbuyer.com/aircraft/twin-piston/vulcanair/p68/354294;;Vulcanair P68;;-;;432-28/OB2;;743.1
+www.avbuyer.com/aircraft/private-jets/cessna-citation/v-ultra/354293;;Cessna Citation V Ultra;;1995;;-;;5594
+www.avbuyer.com/aircraft/private-jets/gulfstream/g650er/354292;;Gulfstream G650ER;;2015;;6144;;937
+www.avbuyer.com/aircraft/private-jets/gulfstream/g650/354291;;Gulfstream G650;;2013;;6030;;986
+www.avbuyer.com/aircraft/private-jets/gulfstream/g550/354290;;Gulfstream G550;;2008;;5199;;5708.1
+www.avbuyer.com/aircraft/helicopter/turbine/sikorsky/s-76c-plus/351750;;Sikorsky S-76C+;;1996;;760453;;8139
+www.avbuyer.com/aircraft/turboprops/pilatus/pc-12/354289;;Pilatus PC-12;;2011;;1247;;550
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/4000/354288;;Hawker Beechcraft 4000;;-;;-;;2,226
+www.avbuyer.com/aircraft/helicopter/piston/robinson/r44-raven-i/354287;;Robinson R44 Raven I;;2019;;TBA;;0
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/400xp/354286;;Hawker Beechcraft 400XP;;2006;;-;;3,024
+www.avbuyer.com/aircraft/twin-piston/cessna/340A/354273;;Cessna 340A;;1978;;340A0546;;3171
+www.avbuyer.com/aircraft/private-jets/cessna-citation/sovereign/354274;;Cessna Citation Sovereign;;2009;;680-0272;;2430
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/900xp/354285;;Hawker Beechcraft 900XP;;2011;;HA-177;;3,167
+www.avbuyer.com/aircraft/private-jets/gulfstream/v/354284;;Gulfstream V;;1999;;556;;5,029
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/2000ex-easy/354283;;Dassault Falcon 2000EX EASy II;;2007;;117;;5,413
+www.avbuyer.com/aircraft/private-jets/embraer/legacy-650/354250;;Embraer Legacy 650;;2015;;145-01214;;1073 hrs 
+www.avbuyer.com/aircraft/private-jets/bombardier-learjet/60xr/354282;;Bombardier Learjet 60XR;;2008;;-;;765.4
+www.avbuyer.com/aircraft/private-jets/bombardier-challenger/601-3r/354281;;Bombardier Challenger 601-3R;;1995;;-;;6,584
+www.avbuyer.com/aircraft/private-jets/bombardier-challenger/601-3a/354279;;Bombardier Challenger 601-3A;;1989;;-;;8,403
+www.avbuyer.com/aircraft/helicopter/turbine/airbus/354276;;Turbine Airbus;;1997;;AS355N;;3,337
+www.avbuyer.com/aircraft/private-jets/bombardier-learjet/60/354275;;Bombardier Learjet 60;;1997;;89;;5348
+www.avbuyer.com/aircraft/private-jets/nextant/400xt/353193;;Nextant 400XT;;2012;;RK-334;;11,338.2
+www.avbuyer.com/aircraft/turboprops/beechcraft/king-air-350i/351468;;Beechcraft King Air 350i;;2014;;FL-972;;899.6
+www.avbuyer.com/aircraft/private-jets/cessna-citation/mustang/354252;;Cessna Citation Mustang;;2007;;510-0005;;1900 Hours
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/50/351747;;Dassault Falcon 50;;1989;;196;;7433.4
+www.avbuyer.com/aircraft/private-jets/gulfstream/iii/353975;;Gulfstream III;;1982;;372;;11,640
+www.avbuyer.com/aircraft/private-jets/cessna-citation/cj1-plus/353105;;Cessna Citation CJ1+;;2007;;0659;;2459
+www.avbuyer.com/aircraft/private-jets/beechcraft/premier-1/351554;;Beechcraft Premier 1;;2005;;125;;3250
+www.avbuyer.com/aircraft/single-piston/diamond/da40-xls/354272;;Diamond DA40 XLS;;2011;;-;;852.2
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/900b/354271;;Dassault Falcon 900B;;1987;;005;;11811
+www.avbuyer.com/aircraft/helicopter/turbine/airbus/h145/354270;;Airbus H145;;2015;;AH-253;;750
+www.avbuyer.com/aircraft/single-piston/slingsby/firefly/354269;;Slingsby Firefly;;1984;;-;;6636
+www.avbuyer.com/aircraft/private-jets/bombardier-global/5000/354268;;Bombardier Global 5000;;2007;;TBD;;1,221
+www.avbuyer.com/aircraft/helicopter/turbine/agusta/a109s-grand/354266;;Agusta A109S Grand;;2007;;22042;;947.14 
+www.avbuyer.com/aircraft/private-jets/airbus/ACJ319/354265;;Airbus ACJ319;;2013;;TBD;;1,171
+www.avbuyer.com/aircraft/helicopter/turbine/bell-helicopters/206b-iii/354264;;Bell 206B III;;2008;;TBD;;1,717
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/ec-120b/354263;;Airbus/Eurocopter EC 120B Colibri;;2006;;1492;;1,770
+www.avbuyer.com/aircraft/private-jets/bombardier-learjet/35a/354262;;Bombardier Learjet 35A;;1987;;626;;10936.8
+www.avbuyer.com/aircraft/private-jets/bombardier-learjet/35a/354261;;Bombardier Learjet 35A;;1982;;485;;3721
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/ec-145/354260;;Airbus/Eurocopter EC 145;;2003;;-;;7,319
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/bo-105cbs-4/17415;;Airbus/Eurocopter BO 105CBS-4;;1980;;S.422;;8686
+www.avbuyer.com/aircraft/single-piston/bucker/bu-131/354236;;Bucker BU-131;;2004;;-;;260
+www.avbuyer.com/aircraft/private-jets/bombardier-learjet/45xr/354259;;Bombardier Learjet 45XR;;2001;;45-210;;3,273 
+www.avbuyer.com/aircraft/helicopter/turbine/Aerospatiale/Gazelle/354258;;Aerospatiale Gazelle;;1977;;1648;;0
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/as-365n-2/354257;;Airbus/Eurocopter AS 365N-2;;1995;;TBD;;7751
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/2000/352667;;Dassault Falcon 2000;;2004;;208;;6’268
+www.avbuyer.com/aircraft/private-jets/bombardier-challenger/601-3r/353121;;Bombardier Challenger 601-3R;;1993;;5129 ;;6121
+www.avbuyer.com/aircraft/private-jets/bombardier-challenger/601-3r/353120;;Bombardier Challenger 601-3R;;1993;;5114;;8772
+www.avbuyer.com/aircraft/turboprops/bombardier-q-series/q400/292788;;Bombardier - Q Series Q400;;2010;;4315;;3,000
+www.avbuyer.com/aircraft/helicopter/piston/robinson/r44-raven-ii/354256;;Robinson R44 Raven II;;2006;;11606;;1810
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/as-350sd2/353999;;Airbus/Eurocopter AS 350SD2;;1994;;TBD;;6270.0 
+www.avbuyer.com/aircraft/helicopter/turbine/bell-helicopters/206l-1/353998;;Bell 206L 1;;1979;;TBD;;22,000
+www.avbuyer.com/aircraft/helicopter/turbine/airbus/h125/353408;;Airbus H125;;2016;;TBD;;221
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/as-350b-3/353474;;Airbus/Eurocopter AS 350B-3;;2003;;-;;6709.1
+www.avbuyer.com/aircraft/private-jets/bombardier-challenger/605/352484;;Bombardier Challenger 605;;2011;;5856;;3479
+www.avbuyer.com/aircraft/helicopter/turbine/Westland/Scout/353898;;Westland Scout;;1967;;-;;7031
+www.avbuyer.com/aircraft/helicopter/turbine/Aerospatiale/Alouette-II/354040;;Aerospatiale Alouette II;;1968;;-;;8610
+www.avbuyer.com/aircraft/helicopter/turbine/bell-helicopters/206b/354143;;Bell 206B;;1975;;-;;6100
+www.avbuyer.com/aircraft/helicopter/piston/robinson/r44-raven-ii/354233;;Robinson R44 Raven II;;2007;;11651;;1521
+www.avbuyer.com/aircraft/private-jets/cessna-citation/isp/353232;;Cessna Citation ISP;;1979;;501-0298;;7876
+www.avbuyer.com/aircraft/turboprops/socata/tbm-700b/354025;;Socata TBM 700B;;1999;;149;;3,250
+www.avbuyer.com/aircraft/private-jets/bombardier-learjet/40xr/354251;;Bombardier Learjet 40XR;;2007;;45-2067;;2610.45
+www.avbuyer.com/aircraft/private-jets/bombardier-learjet/31a/353775;;Bombardier Learjet 31A;;1992;;060;;6940.3
+www.avbuyer.com/aircraft/private-jets/embraer/legacy-500/354041;;Embraer Legacy 500;;2018;;55000048;;Delivery Time Only
+www.avbuyer.com/aircraft/private-jets/gulfstream/g200/354248;;Gulfstream G200;;2004;;094;;4932.7
+www.avbuyer.com/aircraft/helicopter/piston/enstrom/480b/354247;;Enstrom 480B;;2009;;5132;;760
+www.avbuyer.com/aircraft/private-jets/bombardier-challenger/350/354246;;Bombardier Challenger 350;;2015;;20583;;1,015
+www.avbuyer.com/aircraft/single-piston/cessna/p210/354245;;Cessna P210 N;;1979;;P210-00262;;6439.8
+www.avbuyer.com/aircraft/twin-piston/cessna/421/353735;;Cessna 421 C;;1982;;421C1234;;3675
+www.avbuyer.com/aircraft/twin-piston/beechcraft/g58-baron/353808;;Beechcraft G58 Baron;;2009;;Offer GV416;;approx. 1620 hrs
+www.avbuyer.com/aircraft/single-piston/piper/matrix/353868;;Piper Matrix;;2012;;4692182;;900
+www.avbuyer.com/aircraft/single-piston/cessna/182S-Skylane/354164;;Cessna 182S Skylane;;1999;;18280570;;1162
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/as-350b-3/354189;;Airbus/Eurocopter AS 350B-3;;2009;;4726;;3817
+www.avbuyer.com/aircraft/private-jets/bombardier-challenger/600/354225;;Bombardier Challenger 600;;1981;;1019;;6836
+www.avbuyer.com/aircraft/turboprops/fairchild/merlin-iiib/354161;;Fairchild Merlin IIIB;;1981;;T-0400;;9,844.6
+www.avbuyer.com/aircraft/helicopter/turbine/bell-helicopters/206b-iii/354095;;Bell 206B III;;2006;;4601;;0
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/ec-130b4/354093;;Airbus/Eurocopter EC 130B4;;2006;;4039;;1532:49
+www.avbuyer.com/aircraft/private-jets/bombardier-learjet/45xr/354243;;Bombardier Learjet 45XR;;2007;;45-319;;4,002.36
+www.avbuyer.com/aircraft/single-piston/beechcraft/f33a-bonanza/354244;;Beechcraft F33A Bonanza;;-;;TBD;;2040hrs
+www.avbuyer.com/aircraft/helicopter/turbine/agusta/a109c/353424;;Agusta A109C;;-;;-;;2150 
+www.avbuyer.com/aircraft/private-jets/gulfstream/g100/354242;;Gulfstream G100;;2002;;145;;4,568
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/ec-120b/353906;;Airbus/Eurocopter EC 120B;;2001;;TBD;;2200.0
+www.avbuyer.com/aircraft/private-jets/cessna-citation/vii/354241;;Cessna Citation VII;;1996;;650-7068;;6400
+www.avbuyer.com/aircraft/turboprops/socata/tbm-700/354240;;Socata TBM 700;;2007;;433;;2037
+www.avbuyer.com/aircraft/private-jets/gulfstream/ivsp/354239;;Gulfstream IVSP;;1997;;-;;8240
+www.avbuyer.com/aircraft/turboprops/quest-aircraft/kodiak-100/354085;;Quest Aircraft Kodiak 100;;2017;;100-229;;81
+www.avbuyer.com/aircraft/turboprops/cessna/caravan-208b-grand/354238;;Cessna Caravan 208B Grand;;2000;;208B0800;;9,594
+www.avbuyer.com/aircraft/private-jets/bombardier-challenger/604/354237;;Bombardier Challenger 604;;2007;;5660;;4,229.6
+www.avbuyer.com/aircraft/turboprops/pilatus/pc-12-45/354115;;Pilatus PC-12/45;;1998;;212;;2650
+www.avbuyer.com/aircraft/private-jets/cessna-citation/cj3/352776;;Cessna Citation CJ3;;2008;;525B-0228;;5755 
+www.avbuyer.com/aircraft/private-jets/cessna-citation/sovereign/354235;;Cessna Citation Sovereign;;2009;;680-0264;;3676
+www.avbuyer.com/aircraft/private-jets/cessna-citation/vii/354108;;Cessna Citation VII;;1996;;7068;;6400
+www.avbuyer.com/aircraft/private-jets/bombardier-global/express/354234;;Bombardier Global Express;;2000;;9018;;6230
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/800xp/354232;;Hawker Beechcraft 800XP;;1996;;258293;;7,636.9
+www.avbuyer.com/aircraft/private-jets/cessna-citation/ultra/354231;;Cessna Citation Ultra;;1997;;560-0407;;7,556
+www.avbuyer.com/aircraft/private-jets/boeing/bbj/354230;;Boeing BBJ;;2013;;38408 ;;2,119
+www.avbuyer.com/aircraft/private-jets/cessna-citation/cj2-plus/353917;;Cessna Citation CJ2+;;2011;;525A-0482;;1,500
+www.avbuyer.com/aircraft/private-jets/cessna-citation/excel/353234;;Cessna Citation Excel;;2000;;560-5131;;9246
+www.avbuyer.com/aircraft/private-jets/gulfstream/g150/352300;;Gulfstream G150;;2008;;238;;4048
+www.avbuyer.com/aircraft/private-jets/bombardier-challenger/604/352941;;Bombardier Challenger 604;;2005;;5599 ;;9,233
+www.avbuyer.com/aircraft/helicopter/piston/robinson/r44-raven-ii/354229;;Robinson R44 Raven II;;2019;;14286;;0
+www.avbuyer.com/aircraft/helicopter/turbine/bell-helicopters/206b-iii/354228;;Bell 206B III;;1997;;-;;3,577
+www.avbuyer.com/aircraft/light/tl-ultralight/tl-2000-sting/354226;;TL Ultralight TL 2000 Sting;;2005;;-;;0
+www.avbuyer.com/aircraft/single-piston/cessna/182S-Skylane/354224;;Cessna 182S Skylane;;1999;;18280516;;1182
+www.avbuyer.com/aircraft/private-jets/bombardier-learjet/60se/354223;;Bombardier Learjet 60SE;;2006;;60-304;;3687
+www.avbuyer.com/aircraft/turboprops/beechcraft/king-air-b200/354222;;Beechcraft King Air B200;;2000;;BB-1726;;5337
+www.avbuyer.com/aircraft/turboprops/beechcraft/king-air-b200/354221;;Beechcraft King Air B200;;1999;;BB-1659;;6826
+www.avbuyer.com/aircraft/private-jets/gulfstream/g200/351507;;Gulfstream G200;;2008;;204;;6132
+www.avbuyer.com/aircraft/private-jets/cessna-citation/vi/350482;;Cessna Citation VI;;1992;;650-0218;;4949.9
+www.avbuyer.com/aircraft/private-jets/cessna-citation/cj3/354219;;Cessna Citation CJ3;;2005;;525B-0006;;3441
+www.avbuyer.com/aircraft/single-piston/cirrus/sr22-g3-gts/354220;;Cirrus SR22 G3 GTS;;2008;;3185;;1000
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/800xp/354208;;Hawker Beechcraft 800XP;;2005;;258714;;7376.4
+www.avbuyer.com/aircraft/helicopter/piston/robinson/r44-raven-i/354215;;Robinson R44 Raven I;;2019;;TBA;;0
+www.avbuyer.com/aircraft/helicopter/turbine/robinson/r66/354218;;Robinson R66;;2019;;TBA;;0
+www.avbuyer.com/aircraft/helicopter/piston/robinson/r44-raven-ii/354217;;Robinson R44 Raven II;;2019;;TBA;;0
+www.avbuyer.com/aircraft/helicopter/turbine/bell-helicopters/407/354216;;Bell 407 GX;;2012;;54322;;414
+www.avbuyer.com/aircraft/helicopter/piston/robinson/r44/354214;;Robinson R44;;2019;;TBA;;0
+www.avbuyer.com/aircraft/helicopter/piston/robinson/r22-beta-ii/354213;;Robinson R22 Beta II;;2019;;TBA;;0
+www.avbuyer.com/aircraft/private-jets/gulfstream/v/354212;;Gulfstream V;;1997;;530;;9187
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/2000lxs/354211;;Dassault Falcon 2000LXS;;2018;;339;;Delivery Time
+www.avbuyer.com/aircraft/private-jets/bombardier-challenger/605/354210;;Bombardier Challenger 605;;2012;;5891;;1662
+www.avbuyer.com/aircraft/private-jets/bombardier-learjet/45/351687;;Bombardier Learjet 45 with BR MOD;;2000;;45-079;;6980
+www.avbuyer.com/aircraft/private-jets/gulfstream/g200/354209;;Gulfstream G200;;2007;;156	;;2648 
+www.avbuyer.com/aircraft/helicopter/turbine/agusta/a109a-ii/354207;;Agusta A109A II;;1986;;-;;2139
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/4000/354206;;Hawker Beechcraft 4000;;2008;;RC-14;;950
+www.avbuyer.com/aircraft/helicopter/turbine/sikorsky/s-92/351910;;Sikorsky S-92 A;;2011;;920155;;4127.8
+www.avbuyer.com/aircraft/turboprops/piaggio/Avanti-EVO/352634;;Piaggio Avanti EVO;;2019;;TBD;;0
+www.avbuyer.com/aircraft/private-jets/bombardier-global/express-xrs/352459;;Bombardier Global Express XRS;;2008;;9280;;3,445
+www.avbuyer.com/aircraft/private-jets/airbus/a319/353284;;Airbus A319;;2008;;3542;;3'688
+www.avbuyer.com/aircraft/private-jets/gulfstream/g550/352659;;Gulfstream G550;;2011;;5327;;2,060
+www.avbuyer.com/aircraft/turboprops/beechcraft/king-air-350/353377;;Beechcraft King Air 350;;1997;;FL-175;;5695.5
+www.avbuyer.com/aircraft/turboprops/beechcraft/king-air-b200/353664;;Beechcraft King Air B200;;1994;;BB-1500;;5506.7
+www.avbuyer.com/aircraft/private-jets/cessna-citation/vii/353262;;Cessna Citation VII;;1992;;650-7007;;9216.7
+www.avbuyer.com/aircraft/private-jets/gulfstream/g280/353625;;Gulfstream G280;;2013;;2021;;2,317
+www.avbuyer.com/aircraft/private-jets/bombardier-challenger/601-3a/353729;;Bombardier Challenger 601-3A ER;;1991;;5070;;8316
+www.avbuyer.com/aircraft/private-jets/bombardier-challenger/605/354036;;Bombardier Challenger 605;;2013;;5942;;2016.5
+www.avbuyer.com/aircraft/private-jets/gulfstream/iisp/352525;;Gulfstream IISP;;1977;;206;;9,800
+www.avbuyer.com/aircraft/turboprops/beechcraft/king-air-b200/354204;;Beechcraft King Air B200;;1986;;BB-1249;;7869
+www.avbuyer.com/aircraft/single-piston/piper/warrior-ii/354126;;Piper Warrior II;;1978;;-;;10040 at 22-Nov-2017
+www.avbuyer.com/aircraft/single-piston/lancair/320/354203;;Lancair 320;;2002;;930-320-770-SBF;;736:15
+www.avbuyer.com/aircraft/helicopter/turbine/mil/mi-8/354200;;Mil Mi-8;;1992;; 95871;;3496fh
+www.avbuyer.com/aircraft/private-jets/bombardier-learjet/45/10942;;Bombardier Learjet 45;;2000;;079;;6600
+www.avbuyer.com/aircraft/single-piston/cirrus/sr22-gts/293766;;Cirrus SR22 GTS;;2006;;1830;;1700
+www.avbuyer.com/aircraft/private-jets/gulfstream/ivsp/354199;;Gulfstream IVSP;;2000;;1407;;9787.5
+www.avbuyer.com/aircraft/private-jets/cessna-citation/cj3/354003;;Cessna Citation CJ3;;2006;;525B-119;;4661.7
+www.avbuyer.com/aircraft/turboprops/beechcraft/king-air-c90gtx/353857;;Beechcraft King Air C90GTx;;2012;;LJ-2058;;2278
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/50/352275;;Dassault Falcon 50;;1989;;183;;10197
+www.avbuyer.com/aircraft/private-jets/cessna-citation/mustang/354198;;Cessna Citation Mustang 510;;2013;;0441;;623.4
+www.avbuyer.com/aircraft/helicopter/piston/schweizer/269c/354134;;Schweizer 269C;;1975;;-;;6342
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/900ex/354196;;Dassault Falcon 900EX;;1997;;013;;10,464
+www.avbuyer.com/aircraft/private-jets/bombardier-learjet/45/354194;;Bombardier Learjet 45;;2001;;153;;3,950
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/7x/354193;;Dassault Falcon 7X;;-;; 178 ;;903
+www.avbuyer.com/aircraft/helicopter/piston/robinson/r44-raven-i/291619;;Robinson R44 Raven I;;2016;;2436;;530
+www.avbuyer.com/aircraft/helicopter/turbine/robinson/r66/352151;;Robinson R66;;2018;;0838;;20
+www.avbuyer.com/aircraft/turboprops/piper/cheyenne-400ls/354191;;Piper Cheyenne 400LS;;-;;42-5527015;;4808.7hrs
+www.avbuyer.com/aircraft/helicopter/piston/robinson/r44-raven-ii/354192;;Robinson R44 Raven II;;2016;;14023;;185
+www.avbuyer.com/aircraft/private-jets/gulfstream/iv/352954;;Gulfstream IV;;1988;;1066;;8916.9
+www.avbuyer.com/aircraft/helicopter/piston/enstrom/280/353214;;Enstrom 280;;1977;;1084;;2088
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/800xp/354186;;Hawker Beechcraft 800XP;;2000;;258483;;12455.8
+www.avbuyer.com/aircraft/private-jets/bombardier-challenger/650/354190;;Bombardier Challenger 650;;2019;;61XX;;00
+www.avbuyer.com/aircraft/private-jets/airbus/A380/350143;;Airbus A380;;2008;;-;;0
+www.avbuyer.com/aircraft/private-jets/airbus/a319/352531;;Airbus A319;;2013;;-;;1'475
+www.avbuyer.com/aircraft/private-jets/bombardier-global/6000/354188;;Bombardier Global 6000;;2012;;Upon Request;;2,050
+www.avbuyer.com/aircraft/private-jets/bombardier-global/5000/354185;;Bombardier Global 5000 (Vision Cockpit);;2013;;9486;;2589
+www.avbuyer.com/aircraft/private-jets/gulfstream/ivsp/352976;;Gulfstream IVSP;;1999;;1383;;9373 
+www.avbuyer.com/aircraft/private-jets/cessna-citation/525/350919;;Cessna Citation 525;;1993;;525-0046;;4851
+www.avbuyer.com/aircraft/private-jets/embraer/legacy-600/354184;;Embraer Legacy 600;;2005;;14500854;;5481 
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/800xp/352862;;Hawker Beechcraft 800XP;;1997;;258324;;7964
+www.avbuyer.com/aircraft/private-jets/beechcraft/beechjet-400a/354166;;Beechcraft Beechjet 400A;;1991;;RK-32;;10556
+www.avbuyer.com/aircraft/turboprops/piaggio/p-180-avanti-ii/354167;;Piaggio P-180 Avanti II;;2008;;1171;;5756
+www.avbuyer.com/aircraft/private-jets/beechcraft/beechjet-400a/354168;;Beechcraft Beechjet 400A;;1996;;RK-112;;6,359.4
+www.avbuyer.com/aircraft/private-jets/beechcraft/beechjet-400a/354169;;Beechcraft Beechjet 400A;;1998;;RK-197;;4403
+www.avbuyer.com/aircraft/turboprops/piaggio/p-180-avanti-ii/354170;;Piaggio P-180 Avanti II;;2008;;1170;;6949
+www.avbuyer.com/aircraft/turboprops/cessna/caravan-208b-grand/354183;;Cessna Caravan 208B Grand;;2016;;208B-5326;;224.9
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/as-350b-2/352964;;Airbus/Eurocopter AS 350B-2;;2008;;4415;;1950
+www.avbuyer.com/aircraft/private-jets/embraer/phenom-100/293776;;Embraer Phenom 100;;2010;;5000112;;1,264
+www.avbuyer.com/aircraft/single-piston/piper/arrow/354181;;Piper Arrow;;1971;;-;;4685
+www.avbuyer.com/aircraft/single-piston/mooney/m20m/354180;;Mooney M20M Bravo TLS;;1991;;-;;0
+www.avbuyer.com/aircraft/turboprops/beechcraft/king-air-250/354178;;Beechcraft King Air 250;;2012;;BY-139;;1150
+www.avbuyer.com/aircraft/single-piston/cessna/210/354179;;Cessna 210 F;;1966;;210-58757;;1553
+www.avbuyer.com/aircraft/twin-piston/beechcraft/55-baron/354177;;Beechcraft 55 Baron;;1973;;-;;4754
+www.avbuyer.com/aircraft/single-piston/siai-marchetti/sf260/354176;;Siai Marchetti SF260;;1982;;-;;4625
+www.avbuyer.com/aircraft/private-jets/cessna-citation/x/354175;;Cessna Citation X;;2005;;750-0239;;4,250
+www.avbuyer.com/aircraft/single-piston/piper/super-cub/354174;;Piper Super Cub;;1979;;-;;750
+www.avbuyer.com/aircraft/helicopter/turbine/bell-helicopters/206b/352154;;Bell 206B;;1978;;8553;;6466
+www.avbuyer.com/aircraft/helicopter/turbine/bell-helicopters/427/353990;;Bell 427;;2000;;56009;;4922
+www.avbuyer.com/aircraft/helicopter/turbine/bell-helicopters/206b-iii/353899;;Bell 206B III;;1981;;8623;;5090
+www.avbuyer.com/aircraft/single-piston/flight-design/ctsw/354173;;Flight Design CTSW;;2009;;-;;600hrs
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/800xp/354172;;Hawker Beechcraft 800XP;;2001;;258546;;5711
+www.avbuyer.com/aircraft/private-jets/bombardier-global/express-xrs/354171;;Bombardier Global Express XRS;;2009;;TBD;;3,850
+www.avbuyer.com/aircraft/turboprops/piper/meridian/354165;;Piper Meridian;;2009;;4697384 ;;745
+www.avbuyer.com/aircraft/private-jets/cessna-citation/525/354163;;Cessna Citation 525;;1998;;525-0246;;5586
+www.avbuyer.com/aircraft/helicopter/turbine/agusta/A109SP/354158;;Agusta A109SP Grand New;;2011;;22222;;1075
+www.avbuyer.com/aircraft/turboprops/beechcraft/king-air-200/352663;;Beechcraft King Air 200;;1980;;BB-631;;10,758
+www.avbuyer.com/aircraft/private-jets/cessna-citation/x/354162;;Cessna Citation X;;2001;;750-0161;;4490
+www.avbuyer.com/aircraft/private-jets/bombardier-global/5000/354160;;Bombardier Global 5000;;2009;;9321;;3752 
+www.avbuyer.com/aircraft/turboprops/beechcraft/king-air-c90b/354159;;Beechcraft King Air C90B;;2005;;LJ-1734;;2,036 
+www.avbuyer.com/aircraft/private-jets/embraer/legacy-500/354157;;Embraer Legacy 500;;2017;; 55000053 ;;250
+www.avbuyer.com/aircraft/turboprops/beechcraft/king-air-350/354156;;Beechcraft King Air 350;;2009;;FL-669;;2,067.5
+www.avbuyer.com/aircraft/private-jets/embraer/legacy-500/354155;;Embraer Legacy 500;;2018;;55000043;;0
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/800b/350097;;Hawker Beechcraft 800B;;1992;;258222;;6282
+www.avbuyer.com/aircraft/turboprops/beechcraft/b60-duke/354154;;Beechcraft B60 Duke;;1979;;P506;;4250.0
+www.avbuyer.com/aircraft/turboprops/beechcraft/king-air-b200gt/354153;;Beechcraft King Air B200GT;;2008;;BY26;;2050.0
+www.avbuyer.com/aircraft/helicopter/turbine/bell-helicopters/206-l1-c30p/354152;;Bell 206 L1/C30P;;1981;;45323;;14810
+www.avbuyer.com/aircraft/helicopter/turbine/bell-helicopters/412/354150;;Bell 412;;2008;;B-03;;2488
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/as-355np/354149;;Airbus/Eurocopter AS 355NP;;2008;;AH-145;;1796
+www.avbuyer.com/aircraft/helicopter/turbine/bell-helicopters/206l-4/354148;;Bell 206L 4;;1998;;52204;;4199
+www.avbuyer.com/aircraft/private-jets/cessna-citation/cj4/353851;;Cessna Citation CJ4;;2011;;525C-0062;;1770.60
+www.avbuyer.com/aircraft/helicopter/turbine/bell-helicopters/206l-3/354147;;Bell 206L 3;;1989;;51271;;3528
+www.avbuyer.com/aircraft/private-jets/embraer/legacy-500/354146;;Embraer Legacy 500;;2015;;16;;1223
+www.avbuyer.com/aircraft/private-jets/honda/HondaJet/354145;;Honda HondaJet;;2018;;90;;90
+www.avbuyer.com/aircraft/helicopter/turbine/Aerospatiale/Alouette-II/354039;;Aerospatiale Alouette II;;1963;;-;;TBC
+www.avbuyer.com/aircraft/twin-piston/beechcraft/58p-baron/352318;;Beechcraft 58P Baron;;1981;;TJ-334;;5,250
+www.avbuyer.com/aircraft/turboprops/beechcraft/king-air-350i/354142;;Beechcraft King Air 350i;;2016;;FL-1069;;621.8
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/ec-145/354141;;Airbus/Eurocopter EC 145;;2008;;AH-175;;4531
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/ec-145/354140;;Airbus/Eurocopter EC 145;;2003;;AH-174;;6894
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/ec-145/354139;;Airbus/Eurocopter EC 145;;-;;AH-171;;6866
+www.avbuyer.com/aircraft/single-piston/pitts/S-1/354138;;Pitts S-1;;1978;;-;;1626
+www.avbuyer.com/aircraft/single-piston/socata/tb-20-trinidad/354137;;Socata TB-20 Trinidad;;1988;;-;;6660 TTSN
+www.avbuyer.com/aircraft/single-piston/piper/cherokee-six/354136;;Piper Cherokee Six;;1973;;-;;5275.5
+www.avbuyer.com/aircraft/single-piston/piper/arrow/354135;;Piper Arrow;;1971;;-;;2421
+www.avbuyer.com/aircraft/private-jets/embraer/Phenom-100E/354133;;Embraer Phenom 100E;;2014;;50000334;;700
+www.avbuyer.com/aircraft/single-piston/christen/christen-eagle-ii/354132;;Christen Christen Eagle II;;1982;;-;;1700
+www.avbuyer.com/aircraft/single-piston/cirrus/sr22-g3-turbo-gtx/354131;;Cirrus SR22 G3 Turbo GTX;;2008;;-;;763.1
+www.avbuyer.com/aircraft/light/czech-sport/ps-28-cruiser/354130;;Czech Sport PS-28 Cruiser;;2014;;-;;568
+www.avbuyer.com/aircraft/single-piston/piper/warrior/354128;;Piper Warrior;;1977;;-;;12201 at 09-May-2018
+www.avbuyer.com/aircraft/single-piston/piper/warrior-ii/354127;;Piper Warrior II;;1983;;-;;15554
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/as-350b/354125;;Airbus/Eurocopter AS 350B;;1981;;1486;;5800
+www.avbuyer.com/aircraft/helicopter/turbine/agusta/a109e-power/354124;;Agusta A109E Power;;2002;;11146;;1696
+www.avbuyer.com/aircraft/private-jets/astra-gulfstream/1125-sp/354102;;Astra/Gulfstream 1125 SP;;1990;;30;;10,323
+www.avbuyer.com/aircraft/private-jets/bombardier-learjet/55/354123;;Bombardier Learjet 55;;1981;;006;;13,517.1
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/ec-120b/353215;;Airbus/Eurocopter EC 120B;;2006;;1428;;1000
+www.avbuyer.com/aircraft/private-jets/bombardier-global/5500/354058;;Bombardier Global 5500;;2020;;TBD;;0
+www.avbuyer.com/aircraft/helicopter/turbine/bell-helicopters/206b-iii/354122;;Bell 206B III;;1979;;2843;;12787
+www.avbuyer.com/aircraft/private-jets/cessna-citation/bravo/354120;;Cessna Citation Bravo;;1997;;550-0819 ;;5,933 
+www.avbuyer.com/aircraft/helicopter/turbine/bell-helicopters/206b-ii/354113;;Bell 206B II;;1972;;-;;11668
+www.avbuyer.com/aircraft/turboprops/socata/tbm-930/354118;;Socata TBM 930;;2016;;1137;;0
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/900b/351982;;Dassault Falcon 900B;;1989;;055;;12,851
+www.avbuyer.com/aircraft/private-jets/gulfstream/g200/352119;;Gulfstream G200;;2000;;019;;8132
+www.avbuyer.com/aircraft/private-jets/boeing/bbj/354117;;Boeing BBJ;;1998;;29142;;4,584
+www.avbuyer.com/aircraft/private-jets/bombardier-learjet/45/289956;;Bombardier Learjet 45;;1998;;10;;5,328
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/as-365n-2/354116;;Airbus/Eurocopter AS 365N-2;;1991;;6393;;4700 approx.
+www.avbuyer.com/aircraft/private-jets/gulfstream/g200/352095;;Gulfstream G200;;2003;;085;;9285
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/850xp/350497;;Hawker Beechcraft 850XP;;2006;;258793;;3716
+www.avbuyer.com/aircraft/private-jets/bombardier-challenger/605/354114;;Bombardier Challenger 605;;2012;;5866;;1,629
+www.avbuyer.com/aircraft/helicopter/turbine/robinson/r66/352212;;Robinson R66;;2015;;0593 ;;417
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/as-355n/351798;;Airbus/Eurocopter AS 355N;;1993;;5545;;4250
+www.avbuyer.com/aircraft/private-jets/embraer/Phenom-100EV/354112;;Embraer Phenom 100EV;;2017;;50000376;;250
+www.avbuyer.com/aircraft/private-jets/bombardier-global/express/354092;;Bombardier Global Express;;2000;;9028;;8667
+www.avbuyer.com/aircraft/private-jets/bombardier-learjet/31a/352439;;Bombardier Learjet 31A;;1994;;31A-098;;5683 
+www.avbuyer.com/aircraft/twin-piston/beechcraft/58-baron/354110;;Beechcraft 58 Baron;;1985;;TH-1456;;2689
+www.avbuyer.com/aircraft/private-jets/embraer/phenom-100/354109;;Embraer Phenom 100;;2011;;50000248;;1245
+www.avbuyer.com/aircraft/single-piston/cessna/t182-turbo-skylane/354107;;Cessna T182 Turbo Skylane;;2005;;T18208376;;1770
+www.avbuyer.com/aircraft/private-jets/cessna-citation/cj4/354106;;Cessna Citation CJ4;;1994;;525-0082;;3100
+www.avbuyer.com/aircraft/private-jets/cessna-citation/cj4/354105;;Cessna Citation CJ4;;2012;;525C-0107;;1120
+www.avbuyer.com/aircraft/single-piston/extra/300/354088;;Extra 300 /200;;2014;;1045;;100 
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/ec-135p2-plus/354099;;Airbus/Eurocopter EC 135P2+;;2007;;AH-220;;3262
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/ec-135p2/354098;;Airbus/Eurocopter EC 135P2;;2005;;AH-219;;3135
+www.avbuyer.com/aircraft/private-jets/embraer/phenom-300/352846;;Embraer Phenom 300;;2012;;117;;1,588
+www.avbuyer.com/aircraft/private-jets/astra-gulfstream/1125-sp/354091;;Astra/Gulfstream 1125 SP;;1991;;051;;7808
+www.avbuyer.com/aircraft/turboprops/beechcraft/king-air-c90gtx/353239;;Beechcraft King Air C90GTx;;2010;;LJ-1998;;1400
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/100/354089;;Dassault Falcon 100;;1988;;0213;;5624
+www.avbuyer.com/aircraft/private-jets/gulfstream/iv/352274;;Gulfstream IV;;1992;;1191;;10,346.3
+www.avbuyer.com/aircraft/private-jets/cessna-citation/525/354087;;Cessna Citation 525;;1995;;525-0118;;8000
+www.avbuyer.com/aircraft/helicopter/piston/robinson/r22-beta-ii/354086;;Robinson R22 Beta II;;1997;;TBD  ;;3,925
+www.avbuyer.com/aircraft/twin-piston/britten-norman/trislander/353019;;Britten-Norman Trislander;;1976;;1040;;17,450:2
+www.avbuyer.com/aircraft/private-jets/bombardier-learjet/45/354084;;Bombardier Learjet 45;;2002;;45-222;;7005
+www.avbuyer.com/aircraft/private-jets/bombardier-learjet/45/354083;;Bombardier Learjet 45;;2002;;45-221;;7005
+www.avbuyer.com/aircraft/private-jets/gulfstream/iv/354081;;Gulfstream IV;;1987;;1032;;14247.2
+www.avbuyer.com/aircraft/private-jets/honda/HondaJet/352166;;Honda HondaJet;;2018;;4200096;;0
+www.avbuyer.com/aircraft/single-piston/Glasair/glasair-ii/354082;;Glasair II S RG;;1994;;-;;209
+www.avbuyer.com/aircraft/private-jets/cessna-citation/sovereign-plus/293416;;Cessna Citation Sovereign+;;2014;;680-0528;;636
+www.avbuyer.com/aircraft/twin-piston/cessna/421/353710;;Cessna 421 C;;1982;;421C-1252;;5492.1
+www.avbuyer.com/aircraft/turboprops/cessna/grand-caravan-ex/354080;;Cessna Grand Caravan EX;;2013;;208B5030;;543
+www.avbuyer.com/aircraft/helicopter/piston/robinson/r44-clipper-ii/354079;;Robinson R44 Clipper II;;2006;;11148;;1385
+www.avbuyer.com/aircraft/twin-piston/aerostar/601/354078;;Aerostar 601 B;;1977;;-;;5995
+www.avbuyer.com/aircraft/helicopter/turbine/robinson/r66/354076;;Robinson R66;;2011;;0093;;720
+www.avbuyer.com/aircraft/twin-piston/beechcraft/g58-baron/354075;;Beechcraft G58 Baron;;2012;;TH-2341;;950 TT
+www.avbuyer.com/aircraft/private-jets/boeing/bbj/353289;;Boeing BBJ 737-700;;2001;;32774;;4734 
+www.avbuyer.com/aircraft/private-jets/bombardier-global/express-xrs/354074;;Bombardier Global Express XRS;;2009;;9277;;4077.3
+www.avbuyer.com/aircraft/private-jets/gulfstream/g550/354073;;Gulfstream G550;;2008;;5176;;3,680
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/4000/354072;;Hawker Beechcraft 4000;;2010;;RC-50;;2,055.3
+www.avbuyer.com/aircraft/turboprops/bae/j32ep/294039;;BAe J32EP;;1991;;922;;25,831
+www.avbuyer.com/aircraft/turboprops/bae/j32ep/294038;;BAe J32EP;;1990;;920;;17,934.9
+www.avbuyer.com/aircraft/turboprops/bae/j32ep/294037;;BAe J32EP;;1990;;914;;21,482.3
+www.avbuyer.com/aircraft/turboprops/bae/j32/353707;;BAe J32;;1991;;930;;20,334
+www.avbuyer.com/aircraft/turboprops/bae/j32/353708;;BAe J32;;1992;;961;;23,061
+www.avbuyer.com/aircraft/turboprops/bae/j32ep/353709;;BAe J32EP;;1992;;963;;23,019
+www.avbuyer.com/aircraft/twin-piston/beechcraft/g58-baron/353712;;Beechcraft G58 Baron;;2016;;TH-2473;;214.2
+www.avbuyer.com/aircraft/light/czech-sport/sportcruiser/354070;;Czech Sport SportCruiser;;2012;;-;;80
+www.avbuyer.com/aircraft/single-piston/pitts/s-2/354069;;Pitts S-2;;1981;;-;;1368.2
+www.avbuyer.com/aircraft/twin-piston/piper/seneca-ii/354068;;Piper Seneca II;;1978;;-;;3108
+www.avbuyer.com/aircraft/helicopter/turbine/bell-helicopters/206l-4/354064;;Bell 206L 4;;2017;;-;;Brand new
+www.avbuyer.com/aircraft/private-jets/bombardier-global/express-xrs/354063;;Bombardier Global Express XRS;;2010;;9326;;4,369 
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/as-365/353223;;Airbus/Eurocopter AS 365 C-2;;1980;;5062;;9640
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/as-365/353222;;Airbus/Eurocopter AS 365;;1979;;5009  ;;9910
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/as-365n-3/354062;;Airbus/Eurocopter AS 365N-3 +;;2015;;6979;;295
+www.avbuyer.com/aircraft/private-jets/embraer/phenom-300/354061;;Embraer Phenom 300;;2011;;50500057;;2,353
+www.avbuyer.com/aircraft/private-jets/gulfstream/g550/354060;;Gulfstream G550;;2009;;-;;2,563
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/750/354059;;Hawker Beechcraft 750;;2008;;HB 0014;;3648.52
+www.avbuyer.com/aircraft/helicopter/piston/robinson/r22-beta-ii/290250;;Robinson R22 Beta II;;2014;;4643;;600
+www.avbuyer.com/aircraft/helicopter/piston/Westland/BELL-47G-4A/354057;;Westland BELL 47G-4A;;1969;;WA725;;0
+www.avbuyer.com/aircraft/single-piston/socata/tb-20-trinidad/354056;;Socata TB-20 Trinidad;;1984;;-;;1742.5
+www.avbuyer.com/aircraft/helicopter/turbine/bell-helicopters/206l-3/354038;;Bell 206L 3;;1989;;51310;;4670
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/900b/354054;;Dassault Falcon 900B;;1987;;011;;11,304 
+www.avbuyer.com/aircraft/turboprops/beechcraft/king-air-250/354055;;Beechcraft King Air 250;;2015;;BY-211;;948
+www.avbuyer.com/aircraft/private-jets/airbus/ACJ318/354053;;Airbus ACJ318;;2008;;3530;;3,414
+www.avbuyer.com/aircraft/single-piston/pitts/S-1/354052;;Pitts S-1;;1981;;789H;;455
+www.avbuyer.com/aircraft/private-jets/airbus/a318/293807;;Airbus A318;;2009;;3985;;3536
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/900xp/353739;;Hawker Beechcraft 900XP;;2011;;0182;;2254
+www.avbuyer.com/aircraft/turboprops/piper/cheyenne-iiia/292771;;Piper Cheyenne IIIA;;1991;;5501058;;7304.4
+www.avbuyer.com/aircraft/private-jets/gulfstream/v/352859;;Gulfstream V;;2001;;635;;7190.4
+www.avbuyer.com/aircraft/helicopter/turbine/bell-helicopters/206b-ii/354045;;Bell 206B II;;1968;;208;;15,951
+www.avbuyer.com/aircraft/private-jets/bombardier-challenger/300/354046;;Bombardier Challenger 300;;2013;;TBD;;0
+www.avbuyer.com/aircraft/private-jets/gulfstream/g450/354044;;Gulfstream G450;;2015;;4321;;1,330
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/7x/354043;;Dassault Falcon 7X;;2012;;135;;3,427 
+www.avbuyer.com/aircraft/turboprops/socata/tbm-700b/354037;;Socata TBM 700B;;2000;;180;;2400
+www.avbuyer.com/aircraft/private-jets/cessna-citation/encore-plus/354035;;Cessna Citation Encore+;;2008;;560-0789;;7046.2
+www.avbuyer.com/aircraft/private-jets/cessna-citation/sovereign/354034;;Cessna Citation Sovereign;;2010;;680-0303;;3522
+www.avbuyer.com/aircraft/single-piston/rockwell-commander/114b/354010;;Rockwell Commander 114B;;1993;;14569;;1003
+www.avbuyer.com/aircraft/single-piston/storm-century/4/354032;;Storm Century 4;;2007;;-;;270
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/850xp/354031;;Hawker Beechcraft 850XP;;2007;;258852;;1,600.8
+www.avbuyer.com/aircraft/private-jets/cessna-citation/cj2-plus/354028;;Cessna Citation CJ2+;;2007;;525A-0353;;738
+www.avbuyer.com/aircraft/private-jets/bombardier-global/5000/354027;;Bombardier Global 5000;;2012;;9453;;  2,921 
+www.avbuyer.com/aircraft/private-jets/embraer/legacy-500/354026;;Embraer Legacy 500;;2017;;55000021;;450
+www.avbuyer.com/aircraft/turboprops/socata/tbm-700a/352754;;Socata TBM 700A;;1992;;29;;7683
+www.avbuyer.com/aircraft/helicopter/turbine/robinson/r66/354023;;Robinson R66;;2015;;0643;;512
+www.avbuyer.com/aircraft/private-jets/cessna-citation/CJ3-Plus/354020;;Cessna Citation CJ3+;;2015;;525B-0483;;1139
+www.avbuyer.com/aircraft/private-jets/cessna-citation/cj2/354019;;Cessna Citation CJ2;;2002;;525A-0101;;3361
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/50ex/354018;;Dassault Falcon 50EX;;2006;;345;;2450
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/50/354017;;Dassault Falcon 50;;1986;;147;;8164
+www.avbuyer.com/aircraft/private-jets/cessna-citation/mustang/354015;;Cessna Citation Mustang;;2010;;510-351;;1,060
+www.avbuyer.com/aircraft/twin-piston/beechcraft/e55-baron/351143;;Beechcraft E55 Baron;;1978;;TE-1128;;3108
+www.avbuyer.com/aircraft/private-jets/cessna-citation/cj3/354014;;Cessna Citation CJ3;;2009;;525B-0319;;1370
+www.avbuyer.com/aircraft/helicopter/piston/robinson/r44-raven-ii/352381;;Robinson R44 Raven II;;2008;;12149;;1282
+www.avbuyer.com/aircraft/helicopter/piston/robinson/r44-raven-ii/352542;;Robinson R44 Raven II;;2008;;-;;1386
+www.avbuyer.com/aircraft/helicopter/piston/robinson/r22-beta-ii/353349;;Robinson R22 Beta II;;1999;;TBD  ;;2800
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/900b/354013;;Dassault Falcon 900B;;1994;;137;;5487
+www.avbuyer.com/aircraft/private-jets/bombardier-global/express-xrs/354012;;Bombardier Global Express XRS;;2011;;9393;;3,966
+www.avbuyer.com/aircraft/private-jets/dornier/328/354011;;Dornier 328 -310;;2002;;3209;;0
+www.avbuyer.com/aircraft/helicopter/turbine/bell-helicopters/407/354009;;Bell 407;;1996;;53071;;4,136
+www.avbuyer.com/aircraft/private-jets/cessna-citation/excel/353619;;Cessna Citation Excel;;2001;;5153;;8,983.8
+www.avbuyer.com/aircraft/private-jets/boeing/bbj/350596;;Boeing BBJ;;2015;;61040;;781
+www.avbuyer.com/aircraft/helicopter/piston/robinson/r22-beta-ii/353949;;Robinson R22 Beta II;;2007;;4156;;3450 H
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/900ex-easy/354008;;Dassault Falcon 900EX EASy;;2009;;205;;4061
+www.avbuyer.com/aircraft/helicopter/turbine/bell-helicopters/430/354007;;Bell 430;;1997;;49033;;5,120 
+www.avbuyer.com/aircraft/private-jets/gulfstream/g200/354006;;Gulfstream G200;;2009;;0232;;1,553
+www.avbuyer.com/aircraft/private-jets/embraer/Phenom-100E/354005;;Embraer Phenom 100E;;2015;;50000357;;403
+www.avbuyer.com/aircraft/helicopter/turbine/sikorsky/s-76c-plus-plus/354004;;Sikorsky S-76C++;;2008;;TBD;;1.276
+www.avbuyer.com/aircraft/private-jets/bombardier-learjet/40/354001;;Bombardier Learjet 40;;2004;;2007;;3951.5
+www.avbuyer.com/aircraft/private-jets/cessna-citation/mustang/354000;;Cessna Citation Mustang;;2013;;438;;1195
+www.avbuyer.com/aircraft/private-jets/bombardier-learjet/35a/293471;;Bombardier Learjet 35A;;1982;;35A-468;;17,747
+www.avbuyer.com/aircraft/single-piston/rockwell-commander/112tca/353997;;Rockwell Commander 112TCA;;1977;;13151;;1553
+www.avbuyer.com/aircraft/private-jets/cessna-citation/m2/353996;;Cessna Citation M2;;2014;;525-0848;;1028.5
+www.avbuyer.com/aircraft/private-jets/cessna-citation/cj1-plus/353993;;Cessna Citation CJ1+;;2006;;525-0621;;1931.7
+www.avbuyer.com/aircraft/helicopter/piston/robinson/r44-raven-ii/353991;;Robinson R44 Raven II;;2006;;TBD  ;;1,545
+www.avbuyer.com/aircraft/private-jets/bombardier-learjet/75/353989;;Bombardier Learjet 75;;2015;;45-505;;426.7 
+www.avbuyer.com/aircraft/private-jets/bombardier-global/5000/353988;;Bombardier Global 5000;;-;;TBD;;3883
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/as-350b-3/353985;;Airbus/Eurocopter AS 350B-3 e;;2013;;TBD;;2000
+www.avbuyer.com/aircraft/private-jets/cessna-citation/mustang/353984;;Cessna Citation Mustang;;2013;;510-0445;;1409
+www.avbuyer.com/aircraft/private-jets/boeing/737/352150;;Boeing 737 400 VIP;;-;;25423;;47,578
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/50/353343;;Dassault Falcon 50;;1989;;197;;9,934
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/2000ex-easy/353458;;Dassault Falcon 2000EX EASy;;2005;;51;;3,646
+www.avbuyer.com/aircraft/private-jets/gulfstream/g550/353983;;Gulfstream G550;;2008;;5217;;4,344
+www.avbuyer.com/aircraft/private-jets/cessna-citation/sovereign/353667;;Cessna Citation Sovereign;;2007;;680-128;;5,761.6
+www.avbuyer.com/aircraft/turboprops/piper/meridian/353979;;Piper Meridian;;2013;;4697517;;821
+www.avbuyer.com/aircraft/turboprops/piper/meridian/353978;;Piper Meridian;;2014;;4697547;;937
+www.avbuyer.com/aircraft/private-jets/embraer/phenom-300/353974;;Embraer Phenom 300;;2014;;50500228;;670
+www.avbuyer.com/aircraft/private-jets/cessna-citation/x/353973;;Cessna Citation X;;2007;;750-0278;;0
+www.avbuyer.com/aircraft/private-jets/cessna-citation/cj2-plus/353972;;Cessna Citation CJ2+;;2010;;525A-0465;;580
+www.avbuyer.com/aircraft/helicopter/turbine/agusta/a109e-power/353970;;Agusta A109E Power;;2006;;11677;;1,720
+www.avbuyer.com/aircraft/helicopter/turbine/bell-helicopters/206b-iii/5416;;Bell 206B III;;1981;;3370;;9874.1
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/900xp/353969;;Hawker Beechcraft 900XP;;2009;;HA-91;;2,332
+www.avbuyer.com/aircraft/private-jets/cessna-citation/xls/353968;;Cessna Citation XLS;;2007;;5684;;3,145 
+www.avbuyer.com/aircraft/turboprops/socata/tbm-850/353967;;Socata TBM 850;;2013;;659;;750
+www.avbuyer.com/aircraft/private-jets/bombardier-challenger/850-er/351685;;Bombardier Challenger 850/ER;;2011;;8104;;622
+www.avbuyer.com/aircraft/helicopter/turbine/agusta/a109c/293111;;Agusta A109C;;1995;;7630;;2943.5
+www.avbuyer.com/aircraft/private-jets/cessna-citation/cj4/352771;;Cessna Citation CJ4;;2012;;525C-0100;;2120 hours
+www.avbuyer.com/aircraft/helicopter/turbine/agusta/a109e-power/5410;;Agusta A109E Power;;2003;;11208;;2796.8
+www.avbuyer.com/aircraft/helicopter/turbine/agusta/a109e-power/291323;;Agusta A109E Power;;2003;;11217;;3636.8
+www.avbuyer.com/aircraft/helicopter/turbine/agusta/a109e-power/350384;;Agusta A109E Power;;1999;;11043;;3628.2
+www.avbuyer.com/aircraft/helicopter/turbine/agusta/a109s-grand/353965;;Agusta A109S Grand;;2005;;22009;;2848.50
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/2000/353964;;Dassault Falcon 2000;;1998;;062;;3612
+www.avbuyer.com/aircraft/helicopter/turbine/agusta/aw109-grand-new/353963;;Agusta AW109 Grand New;;2015;;TBD;;995
+www.avbuyer.com/aircraft/turboprops/socata/tbm-850/350305;;Socata TBM 850;;2010;;547;;1,035
+www.avbuyer.com/aircraft/single-piston/beechcraft/g36-bonanza/353959;;Beechcraft G36 Bonanza;;2008;;3932;;400
+www.avbuyer.com/aircraft/turboprops/socata/TBM910/353962;;Socata TBM 910;;2019;;TBD;;0
+www.avbuyer.com/aircraft/turboprops/socata/tbm-930/353961;;Socata TBM 930;;2019;;TBD;;0
+www.avbuyer.com/aircraft/private-jets/gulfstream/g450/353960;;Gulfstream G450;;2013;;-;;1,463
+www.avbuyer.com/aircraft/private-jets/gulfstream/g550/353958;;Gulfstream G550;;-;;-;;2,559
+www.avbuyer.com/aircraft/private-jets/cessna-citation/cj3/353628;;Cessna Citation CJ3;;2006;;525B-0066;;0
+www.avbuyer.com/aircraft/private-jets/bombardier-challenger/300/350318;;Bombardier Challenger 300;;2008;;20181;;6,074
+www.avbuyer.com/aircraft/private-jets/bombardier-global/5000/350124;;Bombardier Global 5000;;2005;;9157;;6,064
+www.avbuyer.com/aircraft/single-piston/piper/saratoga/353957;;Piper Saratoga;;1997;;3246060;;2067
+www.avbuyer.com/aircraft/helicopter/turbine/leonardo/aw139-helicopters/353863;;Leonardo AW139 Helicopters;;2009;;-;;1374
+www.avbuyer.com/aircraft/helicopter/turbine/agusta/a109e-power/353862;;Agusta A109E Power;;2006;;-;;3153
+www.avbuyer.com/aircraft/turboprops/beechcraft/king-air-c90a/353952;;Beechcraft King Air C90A;;1985;;LJ‐1117;;4,391.2
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/8x/353956;;Dassault Falcon 8X;;2016;;410;;481
+www.avbuyer.com/aircraft/private-jets/gulfstream/v/353955;;Gulfstream V;;1997;;516;;7913
+www.avbuyer.com/aircraft/twin-piston/beechcraft/58-baron/352195;;Beechcraft 58 Baron;;2000;;TH-1936;;2,135
+www.avbuyer.com/aircraft/single-piston/cessna/185/353953;;Cessna 185;;1967;;185-1175;;2961.6
+www.avbuyer.com/aircraft/private-jets/gulfstream/g550/352697;;Gulfstream G550;;2013;;5406;;2667.8
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/ec-120/353951;;Airbus/Eurocopter EC 120;;2002;;1286;;2730
+www.avbuyer.com/aircraft/turboprops/bae/j32ep/291860;;BAe J32EP;;1988;;0800;;22,716
+www.avbuyer.com/aircraft/helicopter/turbine/bell-helicopters/427/353950;;Bell 427;;2000;;56006;;4585
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/ec-225/353948;;Airbus/Eurocopter EC 225;;2015;;-;;20
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/ec-225/353947;;Airbus/Eurocopter EC 225;;2014;;-;;1,199 
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/ec-225/353946;;Airbus/Eurocopter EC 225;;2014;;-;;284
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/ec-225/353945;;Airbus/Eurocopter EC 225;;2007;;-;;8575 
+www.avbuyer.com/aircraft/helicopter/turbine/sikorsky/s-76c-plus-plus/353944;;Sikorsky S-76C++;;2007;;-;;6804
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/ec-145/353943;;Airbus/Eurocopter EC 145;;2004;;-;;10,063
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/ec-120b/353942;;Airbus/Eurocopter EC 120B;;2004;;-;;3663
+www.avbuyer.com/aircraft/single-piston/beechcraft/f33a-bonanza/353941;;Beechcraft F33A Bonanza;;1992;;CE-1712;;1.418h
+www.avbuyer.com/aircraft/private-jets/gulfstream/ivsp/353940;;Gulfstream IVSP;;1999;;1348;;6,798
+www.avbuyer.com/aircraft/helicopter/turbine/agusta/a109s-grand/353939;;Agusta A109S Grand;;2006;;22012;;1,076 
+www.avbuyer.com/aircraft/helicopter/turbine/agusta/a109/353928;;Agusta A109;;2002;;11062;;280 H engines and 3500 H the Cell
+www.avbuyer.com/aircraft/private-jets/cessna-citation/iii/292366;;Cessna Citation III;;1984;;650-0045;;11,500
+www.avbuyer.com/aircraft/private-jets/gulfstream/g200/353466;;Gulfstream G200;;2005;;123;;7,924
+www.avbuyer.com/aircraft/helicopter/piston/robinson/r44-raven-ii/353511;;Robinson R44 Raven II;;2005;;11028;;550
+www.avbuyer.com/aircraft/turboprops/beechcraft/king-air-b200/353767;;Beechcraft King Air B200;;1985;;BB-1202;;8160
+www.avbuyer.com/aircraft/turboprops/beechcraft/king-air-250/353921;;Beechcraft King Air 250;;2017;;BY-296;;120
+www.avbuyer.com/aircraft/single-piston/cirrus/sr22/353932;;Cirrus SR22 G5 Turbo;;2014;;0851;;560
+www.avbuyer.com/aircraft/private-jets/embraer/Phenom-100E/353920;;Embraer Phenom 100E;;2015;;50000352;;1,490
+www.avbuyer.com/aircraft/turboprops/pilatus/pc-12-ng/353923;;Pilatus PC-12 NG;;2008;;1004;;3,997
+www.avbuyer.com/aircraft/turboprops/piper/jetprop/353790;;Piper JetProp;;2005;;4636367;;1840 
+www.avbuyer.com/aircraft/single-piston/piper/malibu/353931;;Piper Malibu Matrix;;2008;;4692012;;880
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/ec-120b/353929;;Airbus/Eurocopter EC 120B;;2010;;1653;;700
+www.avbuyer.com/aircraft/turboprops/piper/meridian/353927;;Piper Meridian;;2003;;4697162;;2100
+www.avbuyer.com/aircraft/single-piston/beechcraft/a36-bonanza/353926;;Beechcraft A36 Bonanza;;2001;;E-3383;;0
+www.avbuyer.com/aircraft/helicopter/turbine/agusta/a109a-mk-ii/353925;;Agusta A109A MK II;;1984;;7625;;0
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/premier-1a/353924;;Hawker Beechcraft Premier 1A;;2006;;TBD;;2,500 
+www.avbuyer.com/aircraft/turboprops/piaggio/Avanti-EVO/352800;;Piaggio Avanti EVO;;2016;;TBD;;80
+www.avbuyer.com/aircraft/private-jets/cessna-citation/x/353919;;Cessna Citation X;;2000;;750-0136;;0
+www.avbuyer.com/aircraft/private-jets/cessna-citation/m2/353916;;Cessna Citation M2;;2015;;525-0855;;676
+www.avbuyer.com/aircraft/private-jets/cessna-citation/jet/353915;;Cessna Citation Jet;;1993;;525-0018;;6,200
+www.avbuyer.com/aircraft/private-jets/beechcraft/beechjet-400a/353913;;Beechcraft Beechjet 400A;;1998;;RK-177;;3759
+www.avbuyer.com/aircraft/private-jets/cessna-citation/cj4/353852;;Cessna Citation CJ4;;2014;;525C-0149;;989
+www.avbuyer.com/aircraft/helicopter/piston/robinson/r22-beta/352478;;Robinson R22 Beta;;1991;;1836;;2039
+www.avbuyer.com/aircraft/private-jets/bombardier-global/express-xrs/353015;;Bombardier Global Express XRS;;2009;;9351;;2,345
+www.avbuyer.com/aircraft/military-classic-vintage/Panavia/Tornado-F2A-ZD902/350801;;Panavia Tornado F2A ZD902;;1984;;TBD;;0
+www.avbuyer.com/aircraft/helicopter/piston/robinson/r22-beta-ii/353911;;Robinson R22 Beta II;;1997;;2712;;3925
+www.avbuyer.com/aircraft/helicopter/turbine/agusta/aw109-grand-new/353910;;Agusta AW109 Grand New;;2015;;22331;;780
+www.avbuyer.com/aircraft/helicopter/turbine/bell-helicopters/206b-iii/353909;;Bell 206B III;;1981;;3208;;7349.5
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/ec-135p2-plus/353907;;Airbus/Eurocopter EC 135P2+;;2008;;720;;1932.0
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/ec-130b4/353905;;Airbus/Eurocopter EC 130B4;;2008;;4561;;1500.0
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/as-355np/353904;;Airbus/Eurocopter AS 355NP;;2012;;5799;;63.0
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/as-355np/353903;;Airbus/Eurocopter AS 355NP;;2010;;TBD;;1150.0
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/as-355n/353902;;Airbus/Eurocopter AS 355N;;2002;;5706;;1800.0
+www.avbuyer.com/aircraft/helicopter/piston/robinson/r22-beta-ii/353900;;Robinson R22 Beta II;;2002;;3363;;1750
+www.avbuyer.com/aircraft/helicopter/piston/robinson/r22-beta/353768;;Robinson R22 Beta;;-;;1831;;1550
+www.avbuyer.com/aircraft/private-jets/gulfstream/g400/353582;;Gulfstream G400;;2003;;1515;;6,193
+www.avbuyer.com/aircraft/helicopter/turbine/Westland/Wasp/353897;;Westland Wasp;;1965;;-;;0
+www.avbuyer.com/aircraft/helicopter/piston/robinson/r22-beta-ii/353896;;Robinson R22 Beta II;;2001;;3279;;3260
+www.avbuyer.com/aircraft/helicopter/piston/robinson/r22-beta-ii/353895;;Robinson R22 Beta II;;2004;;3615;;1750
+www.avbuyer.com/aircraft/helicopter/piston/robinson/r22-beta-ii/353894;;Robinson R22 Beta II;;2008;;4332;;830
+www.avbuyer.com/aircraft/helicopter/piston/robinson/r44-astro/353893;;Robinson R44 Astro;;1995;;0154;;3300
+www.avbuyer.com/aircraft/helicopter/piston/robinson/r22-beta/353892;;Robinson R22 Beta I;;1989;;1164;;4731
+www.avbuyer.com/aircraft/helicopter/piston/robinson/r22-beta-ii/353891;;Robinson R22 Beta II;;2002;; 3377;;5650
+www.avbuyer.com/aircraft/helicopter/piston/robinson/r22-beta/353890;;Robinson R22 Beta;;1989;;1054;;5250h
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/ec-145/353889;;Airbus/Eurocopter EC 145;;2009;;TBD;;3452
+www.avbuyer.com/aircraft/helicopter/turbine/agusta/a109a-ii/353888;;Agusta A109A II;;1987;;7323;;3346
+www.avbuyer.com/aircraft/private-jets/boeing/bbj/353887;;Boeing BBJ;;1999;;29273;;4090
+www.avbuyer.com/aircraft/helicopter/turbine/airbus/h125/352540;;Airbus H125;;2017;; 8370;;897
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/ec-145/353871;;Airbus/Eurocopter EC 145;;2008;;TBD;;3656
+www.avbuyer.com/aircraft/single-piston/cirrus/sr22-gts/353870;;Cirrus SR22 GTS;;2005;;1693;;1422
+www.avbuyer.com/aircraft/single-piston/cirrus/sr22t/353869;;Cirrus SR22T N G3 Perspective;;2009;;22-3594;;915
+www.avbuyer.com/aircraft/single-piston/cirrus/sr22-g2/290573;;Cirrus SR22 G2;;2007;;22-2369;;1050
+www.avbuyer.com/aircraft/helicopter/turbine/bell-helicopters/412/353762;;Bell 412 EP;;2006;;36428;;4635
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/as-332-l2/353867;;Airbus/Eurocopter AS 332 L2;;2007;;-;;8914 
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/h225/353866;;Airbus/Eurocopter H225;;2015;;-;;73
+www.avbuyer.com/aircraft/helicopter/turbine/leonardo/aw139-helicopters/353865;;Leonardo AW139 Helicopters;;2006;;-;;602
+www.avbuyer.com/aircraft/helicopter/turbine/agusta/aw139/353864;;Agusta AW139;;2006;;-;;2865
+www.avbuyer.com/aircraft/helicopter/turbine/agusta/a109e-power/353861;;Agusta A109E Power;;2001;;-;;3873
+www.avbuyer.com/aircraft/private-jets/gulfstream/g650er/353860;;Gulfstream G650ER;;2015;;6147;;775
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/900xp/294042;;Hawker Beechcraft 900XP;;2012;;HA-0209;;704.3
+www.avbuyer.com/aircraft/private-jets/gulfstream/g650/353565;;Gulfstream G650;;2013;;6050;;1202
+www.avbuyer.com/aircraft/private-jets/bombardier-learjet/40xr/353856;;Bombardier Learjet 40XR;;2008;;45-2109;;2586.5
+www.avbuyer.com/aircraft/turboprops/cessna/caravan-208b-grand/353855;;Cessna Caravan 208B Grand;;2014;;208B-5076;;125
+www.avbuyer.com/aircraft/private-jets/bombardier-challenger/601-3r/353849;;Bombardier Challenger 601-3R;;1994;;5155;;7,800
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/800xp/353848;;Hawker Beechcraft 800XP;;2002;;258570;;9974
+www.avbuyer.com/aircraft/private-jets/cessna-citation/bravo/353392;;Cessna Citation Bravo;;2005;;550-1102;;3,682.6
+www.avbuyer.com/aircraft/private-jets/cessna-citation/m2/353847;;Cessna Citation M2;;2014;;525-0833;;620
+www.avbuyer.com/aircraft/private-jets/cessna-citation/mustang/353846;;Cessna Citation Mustang;;2016;;510-0472;;453
+www.avbuyer.com/aircraft/turboprops/cessna/Caravan-675-Amphibian/353833;;Cessna Caravan 675 Amphibian;;2015;;208-00577;;583.0 
+www.avbuyer.com/aircraft/private-jets/cessna-citation/encore/353845;;Cessna Citation Encore;;2001;;560-0562;;5250
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/800xp/353843;;Hawker Beechcraft 800XP;;1998;;4550	;;0
+www.avbuyer.com/aircraft/helicopter/turbine/bell-helicopters/206l-4/11807;;Bell 206L 4;;2002;;52265;;1,700
+www.avbuyer.com/aircraft/private-jets/cessna-citation/excel/353842;;Cessna Citation Excel;;2000;;5101;;5,040.1
+www.avbuyer.com/aircraft/private-jets/cessna-citation/cj2-plus/353687;;Cessna Citation CJ2+;;2012;;C525A-0498;;3900
+www.avbuyer.com/aircraft/private-jets/bombardier-learjet/36a/11820;;Bombardier Learjet 36A;;1977;;36A-030;;15,600
+www.avbuyer.com/aircraft/helicopter/piston/robinson/r22-beta/353840;;Robinson R22 Beta;;1993;;1877;;2300
+www.avbuyer.com/aircraft/private-jets/beechcraft/beechjet-400a/353839;;Beechcraft Beechjet 400A;;1996;;RK-119;;4476.9
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/as-365n/353413;;Airbus/Eurocopter AS 365N;;1988;;6079;;3900
+www.avbuyer.com/aircraft/private-jets/bombardier-learjet/45/353838;;Bombardier Learjet 45;;2000;;45-067;;4240.8
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/900xp/353837;;Hawker Beechcraft 900XP;;2008;;HA-0052;;1,300
+www.avbuyer.com/aircraft/single-piston/cirrus/sr22-gts/353836;;Cirrus SR22 GTS;;2008;;3019;;1,071
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/800a/353835;;Hawker Beechcraft 800A;;1987;;258108;;11,920
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/800a/353834;;Hawker Beechcraft 800A;;1985;;258042;;9100
+www.avbuyer.com/aircraft/twin-piston/piper/seneca-v/352811;;Piper Seneca V;;2007;;3449363;;709
+www.avbuyer.com/aircraft/private-jets/gulfstream/ivsp/353276;;Gulfstream IVSP;;1993;;1220 ;;14485
+www.avbuyer.com/aircraft/single-piston/cirrus/sr22-g3-gts/353832;;Cirrus SR22 G3 GTS;;2009;;3484;;1025
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/2000/353621;;Dassault Falcon 2000;;1996;;31;;12,122.1
+www.avbuyer.com/aircraft/helicopter/piston/robinson/r22-beta/353830;;Robinson R22 Beta;;1991;;1937;;2100
+www.avbuyer.com/aircraft/helicopter/piston/robinson/r22-beta-ii/353829;;Robinson R22 Beta II;;2005;;3911;;4850
+www.avbuyer.com/aircraft/helicopter/turbine/agusta/a109e-power/353828;;Agusta A109E Power;;2002;;11159;;1964
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/as-350ba/353827;;Airbus/Eurocopter AS 350BA;;1997;;3053;;1226
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/as-355np/353826;;Airbus/Eurocopter AS 355NP;;2007;;5749;;1800
+www.avbuyer.com/aircraft/helicopter/piston/robinson/r44-raven-ii/353825;;Robinson R44 Raven II;;2003;;10204;;1723
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/ec-145/353824;;Airbus/Eurocopter EC 145;;2005;;TBD;;TBD
+www.avbuyer.com/aircraft/helicopter/turbine/bell-helicopters/206b/352850;;Bell 206B;;1974;;1513;;11039
+www.avbuyer.com/aircraft/helicopter/turbine/bell-helicopters/206b-ii/352851;;Bell 206B II;;1970;;463;;8901
+www.avbuyer.com/aircraft/helicopter/turbine/agusta/a119-koala/352852;;Agusta A119 Koala;;2011;;14780;;1900
+www.avbuyer.com/aircraft/private-jets/bombardier-global/express/353822;;Bombardier Global Express;;2002;;9075;;7,188
+www.avbuyer.com/aircraft/private-jets/gulfstream/iv/353823;;Gulfstream IV;;1989;;1096;;10,210
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/2000/353821;;Dassault Falcon 2000;;-;;161;;5,549.9
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/2000/353819;;Dassault Falcon 2000;;1999;;69;;6,725
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/50/353817;;Dassault Falcon 50;;-;;96;;11,247
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/900c/353818;;Dassault Falcon 900C;;1999;;180;;7,436
+www.avbuyer.com/aircraft/private-jets/bombardier-challenger/350/353816;;Bombardier Challenger 350;;2017;;20679;; 390.2
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/900xp/353815;;Hawker Beechcraft 900XP;;2008;;HA-0046;;3004
+www.avbuyer.com/aircraft/twin-piston/diamond/da-42-twin-star/353812;;Diamond DA-42 Twin Star;;2018;;42.N388;;3h - FACTORY NEW
+www.avbuyer.com/aircraft/helicopter/piston/Autogyro/Cavalon-PRO/353809;;Autogyro Cavalon PRO;;2017;;-;;65
+www.avbuyer.com/aircraft/helicopter/turbine/agusta/a109e-power/353502;;Agusta A109E Power;;2002;;11145;;2106
+www.avbuyer.com/aircraft/private-jets/embraer/phenom-300/353600;;Embraer Phenom 300;;2016;;351;;337.9
+www.avbuyer.com/aircraft/private-jets/gulfstream/ivsp/353811;;Gulfstream IVSP;;1999;;1395;;9131.1
+www.avbuyer.com/aircraft/helicopter/turbine/bell-helicopters/412/353515;;Bell 412 EP;;2004;;36329;;3,195
+www.avbuyer.com/aircraft/private-jets/bombardier-learjet/45/353807;;Bombardier Learjet 45;;2002;;0193;;7285
+www.avbuyer.com/aircraft/private-jets/bombardier-challenger/601-3a/353806;;Bombardier Challenger 601-3A /ER;;1988;;5011;;9982.3
+www.avbuyer.com/aircraft/private-jets/bombardier-global/6000/353805;;Bombardier Global 6000;;2015;;9543;;2,244 
+www.avbuyer.com/aircraft/helicopter/turbine/hughes/369/353803;;Hughes 369;;1971;;1090203AG;;7535
+www.avbuyer.com/aircraft/helicopter/turbine/leonardo/aw139-helicopters/353804;;Leonardo AW139 Helicopters;;2016;;31712;;400
+www.avbuyer.com/aircraft/helicopter/turbine/bell-helicopters/412/353802;;Bell 412;;1987;;25504;;6506
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/as-365n-3/353801;;Airbus/Eurocopter AS 365N-3;;2002;;6624;;2646.0
+www.avbuyer.com/aircraft/helicopter/turbine/leonardo/AW109SP-Grand-New/353800;;Leonardo AW109SP Grand New;;2013;;22299;;834
+www.avbuyer.com/aircraft/private-jets/gulfstream/g550/353794;;Gulfstream G550;;-;;5210;;0
+www.avbuyer.com/aircraft/helicopter/piston/robinson/r44-raven-ii/353365;;Robinson R44 Raven II;;2007;;TBD  ;;1,135
+www.avbuyer.com/aircraft/single-piston/socata/tb-20-trinidad/353792;;Socata TB-20 Trinidad;;2001;;2039;;677
+www.avbuyer.com/aircraft/helicopter/turbine/bell-helicopters/430/353793;;Bell 430;;1996;;49005;;3,611
+www.avbuyer.com/aircraft/turboprops/beechcraft/king-air-e90/353791;;Beechcraft King Air E90;;1979;;LW-0318;;10,112
+www.avbuyer.com/aircraft/twin-piston/piper/seneca-iii/353789;;Piper Seneca III;;1989;;-;;1950
+www.avbuyer.com/aircraft/single-piston/socata/tb-21-trinidad/353781;;Socata TB-21 Trinidad;;1988;;793;;2060
+www.avbuyer.com/aircraft/private-jets/cessna-citation/jet/353788;;Cessna Citation Jet;;1999;;525-0347;;1,542
+www.avbuyer.com/aircraft/private-jets/hawker-siddeley/125-700a/353786;;Hawker Siddeley 125-700A;;1982;;257178;;9169.1
+www.avbuyer.com/aircraft/helicopter/turbine/agusta/a109s-grand/353787;;Agusta A109S Grand;;2010;;TBD;;1427
+www.avbuyer.com/aircraft/helicopter/turbine/agusta/a109e-power/353785;;Agusta A109E Power;;2006;;TBD;;2748
+www.avbuyer.com/aircraft/helicopter/turbine/bell-helicopters/505-Jetranger/353783;;Bell 505 Jetranger;;2018;;65151;;0
+www.avbuyer.com/aircraft/private-jets/bae/avro-rj70/353782;;BAe Avro RJ70;;1995;;E1267;;21,482
+www.avbuyer.com/aircraft/private-jets/gulfstream/g150/352967;;Gulfstream G150;;2007;;235;;1599
+www.avbuyer.com/aircraft/helicopter/turbine/bell-helicopters/412/353780;;Bell 412 EP;;2006;;-;;0
+www.avbuyer.com/aircraft/private-jets/cessna-citation/cj2/353779;;Cessna Citation CJ2;;2003;;525A-0164;;4,533 
+www.avbuyer.com/aircraft/private-jets/bae/avro-rj70/353777;;BAe Avro RJ70;;1994;;E1258;;23368
+www.avbuyer.com/aircraft/twin-piston/piper/twin-comanche/353776;;Piper Twin Comanche;;1969;;1881;;7350.5
+www.avbuyer.com/aircraft/private-jets/beechcraft/beechjet-400a/353765;;Beechcraft Beechjet 400A;;1992;;RK-8;;4,735 
+www.avbuyer.com/aircraft/single-piston/cessna/152/353770;;Cessna 152;;1980;;15283631;;11700
+www.avbuyer.com/aircraft/private-jets/embraer/legacy-600/353673;;Embraer Legacy 600;;2007;;-;;0
+www.avbuyer.com/aircraft/single-piston/piper/malibu-mirage/353766;;Piper Malibu Mirage;;1997;;4636126;;2650 
+www.avbuyer.com/aircraft/private-jets/cessna-citation/cj2/353685;;Cessna Citation CJ2;;2003;;525A-0154;;4907
+www.avbuyer.com/aircraft/private-jets/embraer/legacy-650/353764;;Embraer Legacy 650;;2013;;-;;4'768
+www.avbuyer.com/aircraft/helicopter/turbine/airbus/h125/350232;;Airbus H125;;2016;;8242;;1750
+www.avbuyer.com/aircraft/helicopter/turbine/agusta/a109s-grand/353179;;Agusta A109S Grand;;2010;;22160;;491 
+www.avbuyer.com/aircraft/private-jets/airbus/ACJ320/353761;;Airbus ACJ320;;2002;;1868;;3508
+www.avbuyer.com/aircraft/twin-piston/beechcraft/58-baron/350407;;Beechcraft 58 Baron;;1982;;TH-1342;;5139
+www.avbuyer.com/aircraft/private-jets/boeing/787-8/353759;;Boeing 787-8 VIP;;2017;;35507;;15
+www.avbuyer.com/aircraft/turboprops/beechcraft/king-air-c90b/353757;;Beechcraft King Air C90B;;-;;LJ-1374;;4,441
+www.avbuyer.com/aircraft/private-jets/cessna-citation/ii/353756;;Cessna Citation II;;1987;;560;;5776
+www.avbuyer.com/aircraft/private-jets/cessna-citation/ii/353755;;Cessna Citation II;;-;;550-0634;;9962
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/50/353570;;Dassault Falcon 50;;1981;;57;;4581
+www.avbuyer.com/aircraft/private-jets/cessna-citation/v/353102;;Cessna Citation V;;1993;;560-0212;;5180
+www.avbuyer.com/aircraft/private-jets/cessna-citation/v/353754;;Cessna Citation V;;1993;;560-0216;;5078
+www.avbuyer.com/aircraft/private-jets/cessna-citation/bravo/353753;;Cessna Citation Bravo;;1999;;550-0870;; 3973 
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/900b/353752;;Dassault Falcon 900B;;1984;;1;;13,387
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/as-350b-2/353225;;Airbus/Eurocopter AS 350B-2;;1979;;TBD;;21778.4
+www.avbuyer.com/aircraft/private-jets/bombardier-global/express/353751;;Bombardier Global Express;;1999;;9005;;9,268
+www.avbuyer.com/aircraft/turboprops/beechcraft/king-air-b200/353749;;Beechcraft King Air B200;;1998;;BB-1633 ;;2160
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/400a/353748;;Hawker Beechcraft 400A;;1992;;RK-53 ;;9194
+www.avbuyer.com/aircraft/helicopter/turbine/bell-helicopters/206b-iii/353744;;Bell 206B III;;1992;;4210;;2370
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/400a/353747;;Hawker Beechcraft 400A;;1997;;RK-130 ;;5950
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/800xp/353746;;Hawker Beechcraft 800XP;;1997;;258314 ;;8170
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/100/353745;;Dassault Falcon 100;;1988;;217;;6618
+www.avbuyer.com/aircraft/private-jets/bombardier-learjet/31a/353742;;Bombardier Learjet 31A;;1996;;120;;7627.0
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/800a/353741;;Hawker Beechcraft 800A;;1986;;258052;;0
+www.avbuyer.com/aircraft/private-jets/cessna-citation/mustang/353378;;Cessna Citation Mustang;;2010;;310-0305;;379.8 Hrs
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/800xp/291603;;Hawker Beechcraft 800XP;;2004;;258660;;6,928 
+www.avbuyer.com/aircraft/private-jets/gulfstream/v/294244;;Gulfstream V;;1997;;525;;6,278
+www.avbuyer.com/aircraft/helicopter/turbine/mcdonnell-douglas-helicopter/520n/353738;;McDonnell Douglas Helicopter 520N;;1993;;-;;3,325 
+www.avbuyer.com/aircraft/turboprops/piaggio/p-180-avanti-ii/351437;;Piaggio P-180 Avanti II;;2005;;1109;;5680  
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/50ex/353737;;Dassault Falcon 50EX;;2001;;313;;5,413
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/50/353171;;Dassault Falcon 50;;1988;;185;;8,130
+www.avbuyer.com/aircraft/turboprops/beechcraft/king-air-350/353736;;Beechcraft King Air 350;;2004;;FL-381;;2761.9
+www.avbuyer.com/aircraft/single-piston/cirrus/sr22-g3-gts/353734;;Cirrus SR22 G3 GTS;;2007;;2881;;490
+www.avbuyer.com/aircraft/private-jets/embraer/phenom-100/353733;;Embraer Phenom 100;;2009;;026;;1993
+www.avbuyer.com/aircraft/turboprops/socata/tbm-700a/353732;;Socata TBM 700A;;1991;;005;;3,662 
+www.avbuyer.com/aircraft/private-jets/gulfstream/g550/352664;;Gulfstream G550;;2012;;5391;;2971.3
+www.avbuyer.com/aircraft/private-jets/cessna-citation/sovereign/353731;;Cessna Citation Sovereign;;2007;;680-0177;;2246
+www.avbuyer.com/aircraft/private-jets/cessna-citation/x-plus/353730;;Cessna Citation X +;;2014;;750-0513;;269
+www.avbuyer.com/aircraft/private-jets/bombardier-challenger/601-3a/353728;;Bombardier Challenger 601-3A ER;;-;;5091;;5695
+www.avbuyer.com/aircraft/private-jets/bombardier-challenger/601-3r/353727;;Bombardier Challenger 601-3R;;1994;;5151;;7,421
+www.avbuyer.com/aircraft/private-jets/cessna-citation/bravo/353725;;Cessna Citation Bravo;;2002;;550-1043	;;7573 
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/ec-135t1/353724;;Airbus/Eurocopter EC 135T1;;1999;;REF AH-201;;7096
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/ec-135p2/353723;;Airbus/Eurocopter EC 135P2;;2005;;REF AH-202;;3345
+www.avbuyer.com/aircraft/private-jets/bombardier-learjet/45/353722;;Bombardier Learjet 45;;2002;;160;;5773
+www.avbuyer.com/aircraft/private-jets/embraer/phenom-100/353721;;Embraer Phenom 100;;2009;;123;;2242
+www.avbuyer.com/aircraft/private-jets/cessna-citation/cj1/353720;;Cessna Citation CJ1;;2002;;486;;4900
+www.avbuyer.com/aircraft/private-jets/cessna-citation/cj2/353719;;Cessna Citation CJ2;;2001;;525-0033 ;;3600
+www.avbuyer.com/aircraft/private-jets/cessna-citation/cj2/353718;;Cessna Citation CJ2;;2003;;155;;5300
+www.avbuyer.com/aircraft/helicopter/turbine/bell-helicopters/412/352751;;Bell 412 SP;;1990;;-;;3,699
+www.avbuyer.com/aircraft/private-jets/bombardier-challenger/601-3a/353631;;Bombardier Challenger 601-3A;;1990;;5063;;6,670
+www.avbuyer.com/aircraft/twin-piston/piper/navajo-chieftain/353704;;Piper Navajo Chieftain;;-;;-;;7500
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/2000lx/353703;;Dassault Falcon 2000LX;;2011;;216;;2100 
+www.avbuyer.com/aircraft/twin-piston/beechcraft/60-duke/353701;;Beechcraft 60 Duke;;1976;;P-376;;3272
+www.avbuyer.com/aircraft/turboprops/bae/j31/351099;;BAe J31 EP CARGO w/APR!;;1986;;695;;26,834
+www.avbuyer.com/aircraft/private-jets/gulfstream/v/353700;;Gulfstream V;;2002;;638;;7283
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/8x/353698;;Dassault Falcon 8X;;2017;;415;;311
+www.avbuyer.com/aircraft/single-piston/cirrus/sr22-g3-gts/353697;;Cirrus SR22 G3 GTS;;2008;;3121;;1385
+www.avbuyer.com/aircraft/private-jets/gulfstream/v/353695;;Gulfstream V;;2000;;593;;6578.6
+www.avbuyer.com/aircraft/private-jets/embraer/legacy-500/353694;;Embraer Legacy 500;;2014;;55000007;;677.5 
+www.avbuyer.com/aircraft/private-jets/bombardier-learjet/45xr/353689;;Bombardier Learjet 45XR;;2008;;45-371;;2,819 
+www.avbuyer.com/aircraft/private-jets/gulfstream/g550/350603;;Gulfstream G550;;2013;;TBD;;1100 
+www.avbuyer.com/aircraft/private-jets/cessna-citation/cj2-plus/353684;;Cessna Citation CJ2+;;2009;;525-0458;;446.5
+www.avbuyer.com/aircraft/private-jets/gulfstream/g650er/353686;;Gulfstream G650ER;;2012;;6007;;2,446
+www.avbuyer.com/aircraft/private-jets/cessna-citation/excel/353683;;Cessna Citation Excel;;2000;;560-5061;;7450
+www.avbuyer.com/aircraft/private-jets/bombardier-challenger/350/353259;;Bombardier Challenger 350;;2014;;20506;;1278 
+www.avbuyer.com/aircraft/turboprops/de-havilland/dhc-2t/353681;;De Havilland DHC-2T MK I Turbo Beaver;;2002;;-;;446
+www.avbuyer.com/aircraft/private-jets/westwind/ii/353679;;Westwind II;;1981;;334;;7212
+www.avbuyer.com/aircraft/single-piston/piper/saratoga/353482;;Piper Saratoga;;1985;;NA;;5030
+www.avbuyer.com/aircraft/single-piston/piper/arrow-iv/353481;;Piper Arrow IV;;1982;;NA;;1380
+www.avbuyer.com/aircraft/twin-piston/piper/navajo-chieftain/353480;;Piper Navajo Chieftain;;1979;;31-7952102;;6616
+www.avbuyer.com/aircraft/twin-piston/tecnam/p2006/353442;;Tecnam P2006;;2016;;180;;120
+www.avbuyer.com/aircraft/helicopter/piston/schweizer/269c/353678;;Schweizer 269C;;1982;;1077;;3491 
+www.avbuyer.com/aircraft/helicopter/turbine/airbus/h125/352240;;Airbus H125 e;;2017;;8445;;14
+www.avbuyer.com/aircraft/helicopter/turbine/airbus/h130/353674;;Airbus H130;;2017;;TBD;;492
+www.avbuyer.com/aircraft/private-jets/cessna-citation/mustang/353670;;Cessna Citation Mustang;;2010;;510-0282;;1535
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/as-350b-3/353671;;Airbus/Eurocopter AS 350B-3;;2012;;N.A.;;822
+www.avbuyer.com/aircraft/private-jets/embraer/phenom-300/353669;;Embraer Phenom 300;;2014;;50500206;;670
+www.avbuyer.com/aircraft/private-jets/cessna-citation/cj3/353391;;Cessna Citation CJ3;;2007;;525B-0131;;2,828.6
+www.avbuyer.com/aircraft/private-jets/bombardier-global/express-xrs/293132;;Bombardier Global Express XRS;;2009;;9306;;2738
+www.avbuyer.com/aircraft/private-jets/bombardier-global/express/351976;;Bombardier Global Express;;1999;;9033;;8,357
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/7x/352040;;Dassault Falcon 7X;;2010;;101;;1758
+www.avbuyer.com/aircraft/private-jets/bombardier-learjet/60/352876;;Bombardier Learjet 60;;2006;;305;;1938
+www.avbuyer.com/aircraft/private-jets/cessna-citation/sii/353273;;Cessna Citation SII (SIERRA CONVERSION);;1984;;550-0011;;1468
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/400xp/353283;;Hawker Beechcraft 400XP;;2007;;-;;5085.7
+www.avbuyer.com/aircraft/private-jets/beechcraft/beechjet-400a/353109;;Beechcraft Beechjet 400A;;1997;;RK-148;;3581
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/900dx-easy/353666;;Dassault Falcon 900DX EASy;;2007;;616;;3533.0
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/800xp/353663;;Hawker Beechcraft 800XP;;2000;;258476;;4639.0
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/800a/353662;;Hawker Beechcraft 800A;;1984;;258014;;9,300
+www.avbuyer.com/aircraft/private-jets/gulfstream/ii/353660;;Gulfstream II;;1975;;161;;12495.0
+www.avbuyer.com/aircraft/turboprops/piper/cheyenne-iiia/353659;;Piper Cheyenne IIIA;;1990;;-;;8,511 
+www.avbuyer.com/aircraft/single-piston/vans/rv-6/353658;;Vans RV 6;;2002;;PFA 161A-13220;;1770
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/750/353657;;Hawker Beechcraft 750;;2008;;HB-15;;595
+www.avbuyer.com/aircraft/twin-piston/piper/seneca-iii/353656;;Piper Seneca III;;1989;;-;;1756
+www.avbuyer.com/aircraft/single-piston/piper/warrior-ii/353655;;Piper Warrior II;;1984;;28-8416059;;9430.0
+www.avbuyer.com/aircraft/helicopter/turbine/agusta/a109a-mk-ii/353654;;Agusta A109A MK II;;1984;;7269;;4095.0
+www.avbuyer.com/aircraft/single-piston/piper/turbo-arrow-iv/353653;;Piper Turbo Arrow IV;;1981;;28R-8131188;;4570
+www.avbuyer.com/aircraft/private-jets/cessna-citation/jet/353650;;Cessna Citation Jet;;1997;;-;;5158.6 
+www.avbuyer.com/aircraft/private-jets/bombardier-learjet/35a/353649;;Bombardier Learjet 35A;;1981;;368;;15,234.7
+www.avbuyer.com/aircraft/private-jets/bombardier-learjet/31/353648;;Bombardier Learjet 31;;1991;;31-023;;4251.1 
+www.avbuyer.com/aircraft/turboprops/beechcraft/king-air-c90/353647;;Beechcraft King Air C90;;1979;;LJ-827;;8733
+www.avbuyer.com/aircraft/helicopter/turbine/leonardo/aw169-helicopters/350540;;Leonardo AW169 Helicopters;;2019;;NEW;;NEW
+www.avbuyer.com/aircraft/private-jets/bombardier-global/express-xrs/353646;;Bombardier Global Express XRS;;2007;;9262;;3202
+www.avbuyer.com/aircraft/private-jets/bombardier-challenger/601/353645;;Bombardier Challenger 601;;1985;;3045;;8327.0
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/800a/353644;;Hawker Beechcraft 800A;;1986;;258075;;6581.5
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/800a/353643;;Hawker Beechcraft 800A;;1995;;N957H;;4,067 
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/800b/353642;;Hawker Beechcraft 800B;;1993;;258240;;6,158
+www.avbuyer.com/aircraft/private-jets/hawker-siddeley/125-700a/353641;;Hawker Siddeley 125-700A;;1979;;NA0243;;10,699
+www.avbuyer.com/aircraft/twin-piston/cessna/340/353639;;Cessna 340;;1975;;340-521;;4310
+www.avbuyer.com/aircraft/helicopter/turbine/airbus/h125/353640;;Airbus H125;;2017;;8414;;16:48
+www.avbuyer.com/aircraft/private-jets/bombardier-challenger/300/353630;;Bombardier Challenger 300;;2007;;20096;;2333.3
+www.avbuyer.com/aircraft/private-jets/cessna-citation/cj3/353637;;Cessna Citation CJ3;;2008;;525B-0253;;1933
+www.avbuyer.com/aircraft/private-jets/bombardier-learjet/45xr/353635;;Bombardier Learjet 45XR;;2008;;45-362;;2734.6
+www.avbuyer.com/aircraft/private-jets/bombardier-learjet/45/353634;;Bombardier Learjet 45;;2003;;45-170;;2921.2
+www.avbuyer.com/aircraft/private-jets/bombardier-learjet/60xr/353633;;Bombardier Learjet 60XR;;2011;;60-397;;1450.6
+www.avbuyer.com/aircraft/private-jets/gulfstream/g280/353624;;Gulfstream G280;;2015;;2074 ;;621.6 
+www.avbuyer.com/aircraft/turboprops/piaggio/p-180-avanti-ii/353469;;Piaggio P-180 Avanti II;;2008;;11..;;3600
+www.avbuyer.com/aircraft/private-jets/cessna-citation/cj3/353623;;Cessna Citation CJ3;;2005;;525B-040;;2,695.9
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/900b/353622;;Dassault Falcon 900B;;1992;;98;;8033.1
+www.avbuyer.com/aircraft/private-jets/cessna-citation/iii/353620;;Cessna Citation III;;1985;;650-0081;;7,776
+www.avbuyer.com/aircraft/turboprops/beechcraft/king-air-b200/353618;;Beechcraft King Air B200;;2006;;BB-1924;;1,390
+www.avbuyer.com/aircraft/helicopter/turbine/agusta/a109s-grand/353617;;Agusta A109S Grand;;2010;;22162;;1'445
+www.avbuyer.com/aircraft/private-jets/iai/westwind-ii-1124a/353616;;IAI Westwind II 1124A;;1981;;0328;;9387.8
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/as-365n-1/352149;;Airbus/Eurocopter AS 365N-1;;1987;;6256;;4112
+www.avbuyer.com/aircraft/helicopter/turbine/leonardo/AW109SP-Grand-New/352524;;Leonardo AW109SP Grand New;;2017;;22365  ;;20
+www.avbuyer.com/aircraft/turboprops/quest-aircraft/kodiak-100/353615;;Quest Aircraft Kodiak 100;;2012;;100-0076;;1,114.7
+www.avbuyer.com/aircraft/single-piston/cessna/350/352371;;Cessna 350;;2007;;42519;;587 hours
+www.avbuyer.com/aircraft/turboprops/pilatus/pc-12-45/353611;;Pilatus PC-12/45;;2000;;335;;4640
+www.avbuyer.com/aircraft/private-jets/embraer/legacy-450/353609;;Embraer Legacy 450;;2017;;55010029;;220
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/800xp/353606;;Hawker Beechcraft 800XP;;1998;;258373;;4797.1
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/ec-120b/353604;;Airbus/Eurocopter EC 120B;;2000;;1098;;2884
+www.avbuyer.com/aircraft/private-jets/cessna-citation/x/351430;;Cessna Citation X;;2006;;0258;;9,830 
+www.avbuyer.com/aircraft/turboprops/cessna/caravan-208b-grand/353602;;Cessna Caravan 208B Grand;;2010;;208B-2199;;10,211
+www.avbuyer.com/aircraft/turboprops/cessna/caravan-208b-grand/353601;;Cessna Caravan 208B Grand;;2008;;208B-2035;;12,349
+www.avbuyer.com/aircraft/private-jets/bombardier-global/express/352502;;Bombardier Global Express;;2001;;-;;6,694.2
+www.avbuyer.com/aircraft/private-jets/gulfstream/g200/353598;;Gulfstream G200;;2000;;25;;5,151
+www.avbuyer.com/aircraft/private-jets/cessna-citation/iii/350485;;Cessna Citation III;;1985;;650-0068;;8460.7
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/50ex/353599;;Dassault Falcon 50EX;;1999;;0281;;4105.0
+www.avbuyer.com/aircraft/private-jets/bombardier-learjet/45/353597;;Bombardier Learjet 45;;1999;;45-021;;5614.0
+www.avbuyer.com/aircraft/private-jets/astra-gulfstream/spx/353596;;Astra/Gulfstream SPX;;1999;;111;;4771.6
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/ec-120b/353593;;Airbus/Eurocopter EC 120B;;2000;;1045;;3234
+www.avbuyer.com/aircraft/twin-piston/piper/navajo/352753;;Piper Navajo PA 31 310;;1969;;31-480;;8422.3
+www.avbuyer.com/aircraft/private-jets/cessna-citation/cj4/353588;;Cessna Citation CJ4;;2011;;525C-0060;;1806 
+www.avbuyer.com/aircraft/helicopter/turbine/bell-helicopters/212/352740;;Bell 212;;1973;;-;;17,288
+www.avbuyer.com/aircraft/private-jets/bombardier-challenger/604/353587;;Bombardier Challenger 604;;1999;;5422;;6770
+www.avbuyer.com/aircraft/private-jets/bombardier-global/express/353586;;Bombardier Global Express;;2002;;9079;; 8609 
+www.avbuyer.com/aircraft/helicopter/turbine/sikorsky/s-76c-plus-plus/353585;;Sikorsky S-76C++;;2008;;760704;;8,712 
+www.avbuyer.com/aircraft/turboprops/fairchild/metro-iii/353583;;Fairchild Metro III SA227;;1986;;AC-657;;32,610
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/20/293199;;Dassault Falcon 20;;1968;;142;;14,044
+www.avbuyer.com/aircraft/private-jets/cessna-citation/v/350296;;Cessna Citation V;;1990;;560-0084;;18669.6
+www.avbuyer.com/aircraft/private-jets/cessna-citation/x/353579;;Cessna Citation X;;2000;;750-0121        ;;6450
+www.avbuyer.com/aircraft/private-jets/cessna-citation/CJ3-Plus/353578;;Cessna Citation CJ3+;;2014;;525B-0460      ;;890
+www.avbuyer.com/aircraft/turboprops/quest-aircraft/kodiak-100/353577;;Quest Aircraft Kodiak 100;;2017;;100-0224;;50
+www.avbuyer.com/aircraft/helicopter/turbine/bell-helicopters/206b-iii/350382;;Bell 206B III Jet Ranger;;1978;;2567;;3.900
+www.avbuyer.com/aircraft/single-piston/cessna/172/353574;;Cessna 172;;1997;;-;;6,040 Hours
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/as-350b-2/353573;;Airbus/Eurocopter AS 350B-2;;2000;;-;;3,561
+www.avbuyer.com/aircraft/private-jets/cessna-citation/ii/352450;;Cessna Citation II;;1980;;550-0166;;10,299
+www.avbuyer.com/aircraft/private-jets/cessna-citation/excel/351930;;Cessna Citation Excel;;2000;;560‐5071;;12,384
+www.avbuyer.com/aircraft/private-jets/cessna-citation/cj2/351166;;Cessna Citation CJ2;;2001;;525A-0017;;6'600
+www.avbuyer.com/aircraft/private-jets/cessna-citation/xls/353569;;Cessna Citation XLS;;2007;;5723;;4600
+www.avbuyer.com/aircraft/turboprops/piper/M600/353526;;Piper M600;;2017;;4698049;;358
+www.avbuyer.com/aircraft/turboprops/beechcraft/king-air-250/353567;;Beechcraft King Air 250;;2013;;BY-172;;1,625       
+www.avbuyer.com/aircraft/single-piston/extra/330/351880;;Extra 330 LX;;2015;;TBD;;53
+www.avbuyer.com/aircraft/helicopter/turbine/agusta/A109SP/353561;;Agusta A109SP;;2015;;TBD;;Low Hours
+www.avbuyer.com/aircraft/helicopter/turbine/agusta/a109s-grand/353560;;Agusta A109S Grand;;2006;;TBD;;Low Hours
+www.avbuyer.com/aircraft/helicopter/turbine/hughes/369/352795;;Hughes 369;;1971;;-;;11,627
+www.avbuyer.com/aircraft/private-jets/astra-gulfstream/1125/352389;;Astra/Gulfstream 1125;;1988;;25;;10,221
+www.avbuyer.com/aircraft/private-jets/bombardier-learjet/55/290593;;Bombardier Learjet 55;;1982;;020;;13177
+www.avbuyer.com/aircraft/private-jets/cessna-citation/ii/353553;;Cessna Citation II;;1981;;550-0239;;10,087
+www.avbuyer.com/aircraft/private-jets/cessna-citation/ii/353552;;Cessna Citation II;;1982;;550-0339;;3947
+www.avbuyer.com/aircraft/turboprops/cessna/caravan-208b-grand/353551;;Cessna Caravan 208B Grand;;1999;;208B-0729;;16,465.2
+www.avbuyer.com/aircraft/single-piston/cessna/182S-Skylane/353550;;Cessna 182S Skylane;;1998;;18280225;;3,719.3 
+www.avbuyer.com/aircraft/twin-piston/cessna/421/353549;;Cessna 421 Golden Eagle;;1980;;0879;;2,634.2
+www.avbuyer.com/aircraft/single-piston/cirrus/sr22t-gts/353257;;Cirrus SR22T GTS;;2014;;0812;;639
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/ec-135t2/351209;;Airbus/Eurocopter EC 135T2;;2001;;174;;6089
+www.avbuyer.com/aircraft/helicopter/turbine/agusta/a109a-mk-ii/353543;;Agusta A109A MK II;;1985;;7328;;0
+www.avbuyer.com/aircraft/private-jets/beechcraft/beechjet-400a/353529;;Beechcraft Beechjet 400A;;-;;83;;5235
+www.avbuyer.com/aircraft/helicopter/turbine/agusta/a109s-grand/5400;;Agusta A109S Grand;;2006;;22021;;2270.9
+www.avbuyer.com/aircraft/turboprops/atr/42/353542;;ATR 42 500;;2001;;614;;22,173.48
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/50/353527;;Dassault Falcon 50;;1981;;047;;11,954	
+www.avbuyer.com/aircraft/single-piston/beechcraft/a36-bonanza/353539;;Beechcraft A36 Bonanza;;2005;;E-3618;;612 
+www.avbuyer.com/aircraft/turboprops/beechcraft/king-air-c90/353537;;Beechcraft King Air C90;;1980;;LJ-0940;;8,204
+www.avbuyer.com/aircraft/turboprops/beechcraft/king-air-f90/353536;;Beechcraft King Air F90;;1980;;LA-043;;9,875 
+www.avbuyer.com/aircraft/twin-piston/cessna/404/353535;;Cessna 404;;1979;;404-0448;;14,560.50 
+www.avbuyer.com/aircraft/twin-piston/piper/navajo/353533;;Piper Navajo;;1974;;31P-7300129;;3000
+www.avbuyer.com/aircraft/turboprops/de-havilland/dhc-6-300/353532;;De Havilland DHC-6-300;;1972;;601;;30,558.10
+www.avbuyer.com/aircraft/twin-piston/cessna/414/353528;;Cessna 414 A CHANCELLOR III RAM IV;;1978;;0084;;6220 
+www.avbuyer.com/aircraft/private-jets/cessna-citation/bravo/353524;;Cessna Citation Bravo;;2005;;550B-1099;;6,043.7 
+www.avbuyer.com/aircraft/helicopter/piston/robinson/r44-raven-ii/353523;;Robinson R44 Raven II;;2014;;TBD  ;;260
+www.avbuyer.com/aircraft/twin-piston/cessna/414/293916;;Cessna 414;;1978;;414A-0064;;5470
+www.avbuyer.com/aircraft/helicopter/turbine/agusta/a109e-power/353522;;Agusta A109E Power;;2006;;TBD  ;;2090
+www.avbuyer.com/aircraft/private-jets/gulfstream/g450/353520;;Gulfstream G450;;2006;;4036;;5213.1
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/bk-117-b-2/353427;;Airbus/Eurocopter BK 117 B-2;;1994;;1099;;4945
+www.avbuyer.com/aircraft/single-piston/cessna/turbo-206h-stationair/353519;;Cessna Turbo 206H Stationair;;2006;;-;;993
+www.avbuyer.com/aircraft/single-piston/cessna/turbo-206h-stationair/352786;;Cessna Turbo 206H Stationair;;2006;;-;;993
+www.avbuyer.com/aircraft/single-piston/cessna/t182-turbo-skylane/353518;;Cessna T182 Turbo Skylane;;2001;;-;;1469
+www.avbuyer.com/aircraft/single-piston/cessna/turbo-206h-stationair/353517;;Cessna Turbo 206H Stationair;;2000;;-;;1904
+www.avbuyer.com/aircraft/private-jets/hawker-beechcraft/1000/353510;;Hawker Beechcraft 1000;;1992;;259021;;4,745
+www.avbuyer.com/aircraft/private-jets/dassault-falcon/20F-5/353509;;Dassault Falcon 20F-5 BR;;1982;;20F-453;;10,301.5
+www.avbuyer.com/aircraft/helicopter/turbine/airbus-eurocopter/as-350b-3/353508;;Airbus/Eurocopter AS 350B-3 +;;2007;;4344;;4462:28
+www.avbuyer.com/aircraft/private-jets/gulfstream/iii/353506;;Gulfstream III;;1984;;440;;11,000
+www.avbuyer.com/aircraft/private-jets/cessna-citation/sii/353504;;Cessna Citation SII;;-;;S550-0143;;11,394
+www.avbuyer.com/aircraft/helicopter/turbine/airbus/h125/352829;;Airbus H125;;2018;;8529;;15 
+www.avbuyer.com/aircraft/private-jets/bombardier-challenger/601-3a/353503;;Bombardier Challenger 601-3A ER;;1989;;5057;;9220
+www.avbuyer.com/aircraft/private-jets/bombardier-challenger/601-3a/353501;;Bombardier Challenger 601-3A ER;;1990;;5070;;8,165.6 

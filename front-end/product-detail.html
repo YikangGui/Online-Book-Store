@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Product Detail</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/product-detail.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+<!-- Navigation -->
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <div class="container">
+        <a class="navbar-brand" href="">home page</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
+                aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="nav navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="product-list.html?pcat=1&ccat=">products</a>
+                </li>
+
+                <li class="nav-item">
+                    <a id="not-logged-in" class="nav-link" href="login.html">sign in</a>
+                    <div id="logged-in" class="btn-group">
+                        <button type="button" class="btn btn-info dropdown-toggle" data-toggle="dropdown"
+                                aria-haspopup="true" aria-expanded="false">
+                            Welcome
+                        </button>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" href="profile.html">My Profile</a>
+                            <a class="dropdown-item" href="cart.html">My Cart</a>
+                            <a class="dropdown-item" href="order-history.html">My order</a>
+                            <a class="dropdown-item" href="javascript:;" onclick="logout();">logout</a>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<!-- Page Content -->
+<div class="container">
+
+    <div class="row">
+
+
+        <div class="col-lg-8">
+
+            <div class="card mt-4">
+                <img class="card-img-top img-fluid product-pic" src="" alt="">
+                <div class="card-body">
+                    <h3 class="card-title">HIGHLIGHTS</h3>
+                    <p class="card-text product-description"></p>
+                </div>
+            </div>
+            <!-- /.card -->
+
+
+        </div>
+        <!-- /.col-lg-9 -->
+
+        <div class="col-lg-4">
+
+            <div class="card card-outline-secondary my-4">
+                <h3 class="product-name"></h3>
+                <h4 class="product-price"></h4>
+                <div class="card-body">
+                    <li>Year: <span class="product-year"></span></li>
+                    <li><p></p>
+                        <p></p></li>
+                    <li><p></p>
+                        <p></p></li>
+
+                    <hr>
+                    <button class="btn btn-success" onclick="add_to_cart();">Add to cart</button>
+                </div>
+            </div>
+            <!-- /.card -->
+        </div>
+        <!-- /.col-lg-3 -->
+
+    </div>
+
+</div>
+<!-- /.container -->
+<hr>
+<!-- Footer -->
+<footer class="py-5 bg-dark">
+    <div class="container">
+        <p class="m-0 text-center text-white">Copyright &copy; Your Website 2017</p>
+    </div>
+    <!-- /.container -->
+</footer>
+
+<!-- Bootstrap core JavaScript -->
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="js/env.js"></script>
+<script src="js/basic.js"></script>
+<script type="text/javascript">
+
+    let pid = window.location.href.split("=")[1];
+
+    let cid;
+    let cartid;
+
+    if (localStorage.getItem('access_token')) {
+        cid = localStorage.getItem('cid');
+        cartid = localStorage.getItem('cartid');
+    }
+
+    $(document).ready(function () {
+        show_status();
+        get_product_detail();
+    });
+
+    function get_product_detail() {
+        $.ajax({
+            type: 'get',
+            url: "../php/product.php",
+            data: 'pid=' + pid,
+            dataType: "json",
+            success: function (data) {
+                if (data != 0) {
+                    $("#stores").html('');
+                    for (let i = 0; i < data.length; i++) {
+                        $(".product-description").text(data[i].description);
+                        $(".product-year").text(data[i].year);
+                        $(".product-name").text(data[i].pname);
+                        $(".product-price").text('Price: ' + data[i].retailprice);
+                        $(".product-pic").attr('src', data[i].picture);
+                        $(".product-pic").attr('alt', 'picture of ' + data[i].pname);
+                    }
+                } else {
+                    alert('Sry, something wrong with the server...');
+                }
+            },
+            error: function () {
+                alert('Sry, something wrong with the server...');
+            }
+        });
+    }
+
+    function add_to_cart() {
+        if (localStorage.getItem('access_token')) {
+            $.ajax({
+                type: 'post',
+                url: "../php/cart.php",
+                data: 'action=add&cartid=' + cartid + '&pid=' + pid,
+                dataType: "json",
+                success: function (data) {
+                    if (data === 1) {
+                        alert('This product has been successfully added into your cart.');
+                    } else if (data === 2) {
+                        alert('This product has already existed, amount has been added 1.');
+                    } else {
+                        alert('Sry, something wrong with the server...');
+                    }
+                },
+                error: function () {
+                    alert('Sry, something wrong with the server...');
+                }
+            });
+        } else {
+            alert('You need to login first.');
+        }
+    }
+
+</script>
+
+</body>
+
+</html>

@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Scrolling Nav - Start Bootstrap Template</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/home.css" rel="stylesheet">
+
+</head>
+
+<body id="page-top">
+
+
+<header id="banner" class="bg-info text-white">
+    <!--<div class="container text-center">-->
+        <!--<h1>Welcome to 吊炸天的 shopping system</h1>-->
+        <!--<p class="lead">................</p>-->
+    <!--</div>-->
+</header>
+
+<!-- Navigation -->
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark" id="mainNav">
+    <div class="container">
+        <a class="navbar-brand js-scroll-trigger" href="">home page</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
+                aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#rocket">Rocket</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#aircraft">Aircraft</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#yacht">Yacht</a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a>
+                </li>
+
+                <li class="nav-item">
+                    <a id="not-logged-in" class="nav-link" href="login.html">sign in</a>
+                    <div id="logged-in" class="btn-group">
+                        <button type="button" class="btn btn-info dropdown-toggle" data-toggle="dropdown"
+                                aria-haspopup="true" aria-expanded="false">
+                            Welcome
+                        </button>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" href="profile.html">My Profile</a>
+                            <a class="dropdown-item" href="cart.html">My Cart</a>
+                            <a class="dropdown-item" href="order-history.html">My order</a>
+                            <a class="dropdown-item" href="javascript:;" onclick="logout();">logout</a>
+                        </div>
+                    </div>
+                </li>
+
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<section id="rocket">
+    <div class="container">
+
+        <!-- Project One -->
+        <div class="row">
+            <div class="col-md-7">
+                <a href="product-list.html?pcat=1&ccat=">
+                    <img class="img-fluid rounded mb-3 mb-md-0"
+                         src="https://spacenews.com/wp-content/uploads/2018/02/20180206004RP-879x485.jpeg" alt="">
+                </a>
+            </div>
+            <div class="col-md-5">
+                <h3>Rocket</h3>
+                <p>Falcon Heavy is a partially reusable heavy-lift launch vehicle designed and manufactured by SpaceX. It is derived from the Falcon 9 vehicle and consists of a strengthened Falcon 9 first stage as a central core with two additional first stages as strap-on boosters. Falcon Heavy has the highest payload capacity of any currently operational launch vehicle, and the fourth-highest capacity of any rocket ever built, trailing the American Saturn V and the Soviet Energia and N1.</p>
+                <a class="btn btn-primary" href="product-list.html?pcat=1&ccat=">View details</a>
+            </div>
+        </div>
+        <!-- /.row -->
+
+    </div>
+</section>
+
+<section id="aircraft" class="bg-light">
+    <div class="container">
+        <!-- Project One -->
+        <div class="row">
+            <div class="col-md-5">
+                <h3>Aircraft</h3>
+                <p>Falcon Heavy is a partially reusable heavy-lift launch vehicle designed and manufactured by SpaceX. It is derived from the Falcon 9 vehicle and consists of a strengthened Falcon 9 first stage as a central core with two additional first stages as strap-on boosters. Falcon Heavy has the highest payload capacity of any currently operational launch vehicle, and the fourth-highest capacity of any rocket ever built, trailing the American Saturn V and the Soviet Energia and N1.</p>
+                <a class="btn btn-primary" href="product-list.html?pcat=2&ccat=">View details</a>
+
+            </div>
+            <div class="col-md-7">
+                <a href="product-list.html?pcat=2&ccat=">
+                    <img class="img-fluid rounded mb-3 mb-md-0"
+                         src="https://cdn.avbuyer.com/uploads/image/354301_354400/aircraft-private-jets-dassault-falcon-50ex-354301_c328949b65ed1975_920X485.jpg"
+                         alt="">
+                </a>
+            </div>
+
+        </div>
+        <!-- /.row -->
+    </div>
+</section>
+
+<section id="yacht">
+    <div class="container">
+        <!-- Project One -->
+        <div class="row">
+            <div class="col-md-7">
+                <a href="#">
+                    <img class="img-fluid rounded mb-3 mb-md-0" src="http://placehold.it/700x300" alt="">
+                </a>
+            </div>
+            <div class="col-md-5">
+                <h3>Yacht</h3>
+                <p>Falcon Heavy is a partially reusable heavy-lift launch vehicle designed and manufactured by SpaceX. It is derived from the Falcon 9 vehicle and consists of a strengthened Falcon 9 first stage as a central core with two additional first stages as strap-on boosters. Falcon Heavy has the highest payload capacity of any currently operational launch vehicle, and the fourth-highest capacity of any rocket ever built, trailing the American Saturn V and the Soviet Energia and N1.</p>
+                <a class="btn btn-primary" href="#">View details</a>
+
+            </div>
+        </div>
+        <!-- /.row -->
+    </div>
+</section>
+
+<!-- Footer -->
+<footer class="py-5 bg-dark">
+    <div class="container">
+        <p class="m-0 text-center text-white">University of Pittsburgh</p>
+    </div>
+    <!-- /.container -->
+</footer>
+
+<!-- Bootstrap core JavaScript -->
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="js/env.js"></script>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        show_status();
+    });
+
+    function show_status() {
+        if (localStorage.getItem('access_token')) {
+            $('#not-logged-in').hide();
+            $('#logged-in').show();
+        } else {
+            $('#logged-in').hide();
+            $('#not-logged-in').show();
+        }
+    }
+
+    function logout() {
+        localStorage.removeItem('access_token');
+        localStorage.removeItem('cid');
+        localStorage.removeItem('cartid');
+        localStorage.removeItem('kind');
+        localStorage.removeItem('addressid');
+        window.location.href = 'index.html';
+    }
+</script>
+
+</body>
+
+</html>

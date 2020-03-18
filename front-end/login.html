@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <title>bootstrap案例</title>
+    <!--用百度的静态资源库的cdn安装bootstrap环境-->
+    <!-- Bootstrap 核心 CSS 文件 -->
+    <link href="http://apps.bdimg.com/libs/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet">
+    <!--font-awesome 核心我CSS 文件-->
+    <link href="//cdn.bootcss.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="css/login.css" rel="stylesheet">
+</head>
+<body>
+
+<div class="container bg-warning">
+
+    <!-- log in -->
+    <div class="form row col-lg-4">
+        <div class="form-horizontal col-sm-offset-3 col-md-offset-3" id="login_form">
+            <h3 class="form-title">Login to your account !</h3>
+            <hr>
+            <br>
+            <div class="col-sm-9 col-md-9">
+                <div class="form-group">
+                    <i class="fa fa-user fa-lg"></i>
+                    <input class="form-control required" type="text" placeholder="Email" name="login-username"
+                           autofocus="autofocus" maxlength="20"/>
+                </div>
+                <div class="form-group">
+                    <i class="fa fa-lock fa-lg"></i>
+                    <input class="form-control required" type="password" placeholder="Password" name="login-password"
+                           maxlength="8"/>
+                </div>
+                <div class="form-group">
+                    <label class="checkbox">
+                        <input type="checkbox" name="remember" value="1"/> Remember me
+                    </label>
+                    <hr/>
+                    <a href="javascript:;" id="register_btn" class="">Create an account on the right→</a>
+                </div>
+                <div class="form-group">
+                    <button type="submit" class="btn btn-success pull-right" onclick="login();">Login</button>
+                    <!--<button type="submit" class="btn btn-success pull-right" onclick="protect();">jwt</button>-->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- register -->
+    <div class="form row col-lg-8">
+        <div class="form-horizontal col-sm-offset-3 col-md-offset-3" id="register_form">
+            <h3 class="form-title">Welcome to register !</h3>
+            <hr>
+            <br>
+            <div class="col-sm-9 col-md-9">
+
+
+                <div class="form-group">
+
+                    <input class="form-control required" type="text" placeholder="Username" name="register-username"
+                           autofocus="autofocus" maxlength="20" required/>
+                </div>
+                <div class="form-group">
+                    <input class="form-control required" type="password" placeholder="Password" name="register-password"
+                           maxlength="10" required/>
+                </div>
+
+
+                <div class="form-group">
+
+                    <input class="form-control required" type="password" placeholder="Password confirmation"
+                           name="confirmation" maxlength="10"/>
+                </div>
+                <div class="form-group">
+
+                    <input class="form-control required" type="text" placeholder="Email" name="email" maxlength="20"/>
+                </div>
+
+                <div class="form-group">
+
+                    <input class="form-control required" type="text" placeholder="Income" name="income" maxlength="20"/>
+                </div>
+
+                <div class="form-group">
+                    <select id="states" class="form-control" name="state"></select>
+                </div>
+                <div class="form-group">
+
+                    <input class="form-control required" type="text" placeholder="City" name="city" maxlength="20"/>
+                </div>
+                <div class="form-group">
+
+                    <input class="form-control required" type="text" placeholder="Zipcode" name="zipcode"
+                           maxlength="10"/>
+                </div>
+                <div class="form-group">
+
+                    <input class="form-control required" type="text" placeholder="Address" name="address"
+                           maxlength="30"/>
+                </div>
+
+                <div class="form-group">
+                    <div class="form-check">
+                        <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1"
+                               value="home" onclick="show_category();">
+                        <label class="form-check-label" for="exampleRadios1">
+                            home
+                        </label>
+                    </div>
+                    <div class="form-check">
+                        <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios2"
+                               value="business" onclick="show_category();">
+                        <label class="form-check-label" for="exampleRadios2">
+                            business
+                        </label>
+                    </div>
+                </div>
+
+                <div id="home">
+                    <div class="form-group">
+                        <select class="form-control" name="gender">
+                            <option>Male</option>
+                            <option>Female</option>
+                            <option>Unknown</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <select class="form-control" name="married">
+                            <option>Not married</option>
+                            <option>Married</option>
+                            <option>Unknown</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <input class="form-control required" type="text" placeholder="age" name="age" maxlength="20"/>
+                    </div>
+                </div>
+
+                <div id="business">
+                    <div class="form-group">
+                        <input class="form-control required" type="text" placeholder="Business category" name="bc"
+                               maxlength="20"/>
+                    </div>
+                </div>
+
+                <hr/>
+                <div class="form-group">
+                    <input type="submit" class="btn btn-success pull-right" value="register" onclick="register();"/>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+    <script src="./vendor/jquery/jquery.min.js"></script>
+    <script src="./vendor/bootstrap/js/bootstrap.min.js"></script>
+    <script src="js/basic.js"></script>
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+            $('#business').hide();
+            $('#home').hide();
+            get_states();
+        });
+
+        function get_states() {
+            $.ajax({
+                type: 'get',
+                url: "../php/customer.php",
+                data: 'action=get_states',
+                dataType: "json",
+                success: function (data) {
+                    if (data !== 0) {
+                        $("#states").html('');
+                        for (let i = 0; i < data.length; i++) {
+                            $("#states").append('<option value="'+data[i].id+'">'+data[i].name+'</option>');
+                        }
+                    } else {
+                        alert('Sry, something wrong with the server...');
+                    }
+                },
+                error: function () {
+                    alert('Sry, something wrong with the server...');
+                }
+            });
+        }
+
+        function login() {
+            $.ajax({
+                type: 'post',
+                url: "../php/customer.php",
+                data: 'action=login&username=' + $('input[name=login-username]').val() + '&password=' + $('input[name=login-password]').val(),
+                dataType: "json",
+                success: function (data) {
+                    if (data == 0) {
+                        alert('Wrong username.');
+                    } else if (data == 1) {
+                        alert('Wrong password.');
+                    } else {
+                        localStorage.setItem('access_token', data['access_token']);
+                        localStorage.setItem('cid', data['cid']);
+                        localStorage.setItem('cartid', data['cartid']);
+                        localStorage.setItem('kind', data['kind']);
+                        localStorage.setItem('addressid', data['addressid']);
+                        window.location.href = 'index.html';
+                    }
+                },
+                error: function () {
+                    alert('Sry, something wrong with the server...');
+                }
+            });
+        }
+
+        function register() {
+            let d, gender, married;
+            if (validateEmail($('input[name=email]').val())) {
+                if ($("input:checked").val() == 'home') {
+                    if ($('select[name=gender]').val() == 'Male') {
+                        gender = 'm';
+                    } else if ($('select[name=gender]').val() == 'Female') {
+                        gender = 'f';
+                    } else {
+                        gender = 'u';
+                    }
+                    if ($('select[name=married]').val() == 'Married') {
+                        married = 'T';
+                    } else if ($('select[name=married]').val() == 'Not married') {
+                        married = 'F';
+                    } else {
+                        married = 'U';
+                    }
+                    d = {
+                        action: 'register',
+                        username: $('input[name=register-username]').val(),
+                        password: $('input[name=register-password]').val(),
+                        email: $('input[name=email]').val(),
+                        kind: 0,
+                        income: $('input[name=income]').val(),
+                        state: $('select[name=state]').val(),
+                        zipcode: $('input[name=zipcode]').val(),
+                        city: $('input[name=city]').val(),
+                        address: $('input[name=address]').val(),
+                        gender: gender,
+                        married: married,
+                        age: $('input[name=age]').val()
+                    };
+                } else {
+                    d = {
+                        action: 'register',
+                        username: $('input[name=register-username]').val(),
+                        password: $('input[name=register-password]').val(),
+                        email: $('input[name=email]').val(),
+                        kind: 1,
+                        income: $('input[name=income]').val(),
+                        state: $('select[name=state]').val(),
+                        zipcode: $('input[name=zipcode]').val(),
+                        city: $('input[name=city]').val(),
+                        address: $('input[name=address]').val(),
+                        bc: $('input[name=bc]').val()
+                    };
+                }
+                $.ajax({
+                    type: 'post',
+                    url: "../php/customer.php",
+                    data: d,
+                    dataType: "json",
+                    success: function (data) {
+                        if (data == 1) {
+                            alert('You have been successfully registered, now you can log in.');
+                        }
+                    },
+                    error: function () {
+                        alert('Sry, something wrong with the server...');
+                    }
+                });
+            } else {
+                alert('Email in wrong format.');
+            }
+        }
+
+        function validateEmail(Email) {
+            var pattern = /^([\w-\.]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([\w-]+\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$/;
+
+            return $.trim(Email).match(pattern) ? true : false;
+        }
+
+        function protect() {
+            $.ajax({
+                type: 'post',
+                url: "../php/customer.php",
+                data: 'action=test_jwt',
+                beforeSend: function (xhr) {
+                    xhr.setRequestHeader('Authorization', localStorage.getItem('access_token'));
+                },
+                dataType: "json",
+                success: function (data) {
+                    console.log(data);
+                },
+                error: function () {
+                    alert('Sry, something wrong with the server...');
+                }
+            });
+        }
+
+        function show_category() {
+            console.log($("input:checked").val());
+            if ($("input:checked").val() == 'home') {
+                $('#business').hide();
+                $('#home').show();
+            } else {
+                $('#business').show();
+                $('#home').hide();
+            }
+        }
+    </script>
+</body>
+</html> 

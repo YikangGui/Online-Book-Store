@@ -1,0 +1,523 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Homepage</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/product-list.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+<header id="banner" class="bg-info text-white">
+    <!--<div class="container text-center">-->
+        <!--<h1>Welcome to 吊炸天的 shopping system</h1>-->
+        <!--<p class="lead">................</p>-->
+    <!--</div>-->
+</header>
+<!-- Navigation -->
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark ">
+    <div class="container">
+        <a class="navbar-brand" href="">home page</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
+                aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="product-list.html?pcat=1&ccat=">products</a>
+                </li>
+                <li class="nav-item">
+                    <a id="not-logged-in" class="nav-link" href="login.html">sign in</a>
+                    <div id="logged-in" class="btn-group">
+                        <button type="button" class="btn btn-info dropdown-toggle" data-toggle="dropdown"
+                                aria-haspopup="true" aria-expanded="false">
+                            Welcome
+                        </button>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" href="profile.html">My Profile</a>
+                            <a class="dropdown-item" href="cart.html">My Cart</a>
+                            <a class="dropdown-item" href="order-history.html">My order</a>
+                            <a class="dropdown-item" href="javascript:;" onclick="logout();">logout</a>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<!-- Page Content -->
+<div class="container">
+
+    <div class="modal fade" id="deleteModal" tabindex="-1" role="dialog"
+         aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="deleteStoreModalTitle">Edit</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <p>Are you sure to quit?</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">No</button>
+                    <button type="button" class="btn btn-success">Yes</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog"
+         aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalCenterTitle">Edit</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="form-group">
+
+                        <input class="form-control required" type="text" placeholder="Username" name="username"
+                               autofocus="autofocus" maxlength="20" required/>
+                    </div>
+                    <div class="form-group">
+                        <input class="form-control required" type="password" placeholder="Password"
+                               name="password"
+                               maxlength="10"/>
+                    </div>
+                    <div class="form-group">
+
+                        <input class="form-control required" type="text" placeholder="Email" name="email"
+                               maxlength="20" disabled/>
+                    </div>
+
+                    <div class="form-group">
+
+                        <input class="form-control required" type="text" placeholder="Income" name="income"
+                               maxlength="20"/>
+                    </div>
+
+                    <div class="form-group">
+                        <select id="states" class="form-control" name="state"></select>
+                    </div>
+
+                    <div class="form-group">
+
+                        <input class="form-control required" type="text" placeholder="Zipcode" name="zipcode"
+                               maxlength="10" />
+                    </div>
+                    <div class="form-group">
+
+                        <input class="form-control required" type="text" placeholder="City" name="city"
+                               maxlength="20" />
+                    </div>
+                    <div class="form-group">
+
+                        <input class="form-control required" type="text" placeholder="Address" name="address"
+                               maxlength="30" />
+                    </div>
+
+                    <div id="home">
+                        <div class="form-group">
+                            <select class="form-control" name="gender">
+                                <option>Male</option>
+                                <option>Female</option>
+                                <option>Unknown</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <select class="form-control" name="married">
+                                <option>Not married</option>
+                                <option>Married</option>
+                                <option>Unknown</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <input class="form-control required" type="text" placeholder="age" name="age"
+                                   maxlength="20"/>
+                        </div>
+                    </div>
+
+                    <div id="business">
+                        <div class="form-group">
+                            <input class="form-control required" type="text" placeholder="Business category" name="bc"
+                                   maxlength="20"/>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-success">Save changes</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="row">
+
+        <div class="col-lg-9">
+            <br>
+            <dl class="row home">
+                <dt class="col-sm-3">Name</dt>
+                <dd class="col-sm-9 customer-name"></dd>
+
+                <dt class="col-sm-3">Email</dt>
+                <dd class="col-sm-9 customer-email"></dd>
+
+                <dt class="col-sm-3">Income</dt>
+                <dd class="col-sm-9 customer-income"></dd>
+
+                <dt class="col-sm-3">Password</dt>
+                <dd class="col-sm-9 customer-password"></dd>
+
+                <dt class="col-sm-3">Age</dt>
+                <dd class="col-sm-9 customer-age"></dd>
+
+                <dt class="col-sm-3">Gender</dt>
+                <dd class="col-sm-9 customer-gender"></dd>
+
+                <dt class="col-sm-3">Married</dt>
+                <dd class="col-sm-9 customer-married"></dd>
+
+                <dt class="col-sm-3">State</dt>
+                <dd class="col-sm-9 customer-state"></dd>
+
+                <dt class="col-sm-3">City</dt>
+                <dd class="col-sm-9 customer-city"></dd>
+
+                <dt class="col-sm-3">Zip</dt>
+                <dd class="col-sm-9 customer-zip"></dd>
+
+                <dt class="col-sm-3">Street</dt>
+                <dd class="col-sm-9 customer-street"></dd>
+            </dl>
+
+            <dl class="row business">
+                <dt class="col-sm-3">Name</dt>
+                <dd class="col-sm-9 customer-name"></dd>
+
+                <dt class="col-sm-3">Email</dt>
+                <dd class="col-sm-9 customer-email"></dd>
+
+                <dt class="col-sm-3">Income</dt>
+                <dd class="col-sm-9 customer-income"></dd>
+
+                <dt class="col-sm-3">Password</dt>
+                <dd class="col-sm-9 customer-password"></dd>
+
+                <dt class="col-sm-3">Business Category</dt>
+                <dd class="col-sm-9 customer-bc"></dd>
+
+                <dt class="col-sm-3">State</dt>
+                <dd class="col-sm-9 customer-state"></dd>
+
+                <dt class="col-sm-3">City</dt>
+                <dd class="col-sm-9 customer-city"></dd>
+
+                <dt class="col-sm-3">Zip</dt>
+                <dd class="col-sm-9 customer-zip"></dd>
+
+                <dt class="col-sm-3">Street</dt>
+                <dd class="col-sm-9 customer-street"></dd>
+            </dl>
+        </div>
+        <!-- /.col-lg-9 -->
+
+        <div class="col-lg-3">
+
+        </div>
+        <!-- /.col-lg-3 -->
+
+    </div>
+    <!-- /.row -->
+
+    <button type="button" class="btn btn-info" onclick="show_edit_modal();">Edit</button>
+
+    <button type="button" class="btn btn-info" onclick="show_delete_modal();">Quit</button>
+
+</div>
+<!-- /.container -->
+<br>
+<!-- Footer -->
+<footer class="py-5 bg-dark">
+    <div class="container">
+        <p class="m-0 text-center text-white">Copyright &copy; Your Website 2017</p>
+    </div>
+    <!-- /.container -->
+</footer>
+
+<!-- Bootstrap core JavaScript -->
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+<script src="js/env.js"></script>
+<script src="js/basic.js"></script>
+<script type="text/javascript">
+
+    let cid, cartid, kind;
+
+    if (localStorage.getItem('access_token')) {
+        cid = localStorage.getItem('cid');
+        cartid = localStorage.getItem('cartid');
+        kind = localStorage.getItem('kind');
+    }
+
+    $(document).ready(function () {
+        show_status();
+        show_category();
+        get_customer_details();
+    });
+
+    function show_category() {
+        if (kind == 0) {
+            $('.business').hide();
+            $('.home').show();
+        } else {
+            $('.business').show();
+            $('.home').hide();
+        }
+    }
+
+    function list_gender_conditions(gender) {
+        if (gender === 'm') {
+            return 'Male';
+        } else if (gender === 'f') {
+            return 'Female';
+        } else {
+            return 'Unknown';
+        }
+    }
+
+    function list_married_conditions(married) {
+        if (married === 'T') {
+            return 'Married';
+        } else if (married === 'F') {
+            return 'Not married';
+        } else {
+            return 'Unknown';
+        }
+    }
+
+    function get_customer_details() {
+        if (kind == 0) {
+            $('#business').hide();
+            $('#home').show();
+        } else {
+            $('#business').show();
+            $('#home').hide();
+        }
+        $.ajax({
+            type: 'get',
+            url: "../php/customer.php",
+            data: 'cid=' + cid + '&kind=' + kind,
+            dataType: "json",
+            success: function (data) {
+                if (data !== 0) {
+                    if (kind == 0) {
+                        for (let i = 0; i < data.length; i++) {
+                            $(".customer-name").text(data[i].cname);
+                            $(".customer-email").text(data[i].email);
+                            $(".customer-income").text(data[i].gai);
+                            $(".customer-password").text(data[i].password);
+                            $(".customer-age").text(data[i].age);
+                            $(".customer-gender").text(list_gender_conditions(data[i].gender));
+                            $(".customer-married").text(list_married_conditions(data[i].married));
+                            $(".customer-state").text(data[i].sname);
+                            $(".customer-city").text(data[i].city);
+                            $(".customer-zip").text(data[i].zipcode);
+                            $(".customer-street").text(data[i].street);
+                            $('input[name=username]').val(data[i].cname);
+                            $('input[name=password]').val(data[i].password);
+                            $('input[name=email]').val(data[i].email);
+                            $('input[name=income]').val(data[i].gai);
+                            $('input[name=zipcode]').val(data[i].zipcode);
+                            $('input[name=city]').val(data[i].city);
+                            $('input[name=address]').val(data[i].street);
+                            $('select[name=gender]').val(list_gender_conditions(data[i].gender));
+                            $('select[name=married]').val(list_married_conditions(data[i].married));
+                            $('input[name=age]').val(data[i].age)
+                        }
+                    } else {
+                        for (let i = 0; i < data.length; i++) {
+                            $(".customer-name").text(data[i].cname);
+                            $(".customer-email").text(data[i].email);
+                            $(".customer-income").text(data[i].gai);
+                            $(".customer-password").text(data[i].password);
+                            $(".customer-bc").text(data[i].category);
+                            $(".customer-state").text(data[i].sname);
+                            $(".customer-city").text(data[i].city);
+                            $(".customer-zip").text(data[i].zipcode);
+                            $(".customer-street").text(data[i].street);
+                            $('input[name=username]').val(data[i].cname);
+                            $('input[name=password]').val(data[i].password);
+                            $('input[name=email]').val(data[i].email);
+                            $('input[name=income]').val(data[i].gai);
+                            $('input[name=zipcode]').val(data[i].zipcode);
+                            $('input[name=city]').val(data[i].city);
+                            $('input[name=address]').val(data[i].street);
+                            $('input[name=bc]').val(data[i].category)
+                        }
+                    }
+                } else {
+                    alert('Sry, something wrong with the server...');
+                }
+            },
+            error: function () {
+                alert('Sry, something wrong with the server...');
+            }
+        });
+    }
+
+    $("#exampleModal").on("click", ".btn-success", function () {
+        edit();
+    });
+
+    function get_states() {
+        $.ajax({
+            type: 'get',
+            url: "../php/customer.php",
+            data: 'action=get_states',
+            dataType: "json",
+            success: function (data) {
+                if (data !== 0) {
+                    $("#states").html('');
+                    for (let i = 0; i < data.length; i++) {
+                        $("#states").append('<option value="'+data[i].id+'">'+data[i].name+'</option>');
+                    }
+                } else {
+                    alert('Sry, something wrong with the server...');
+                }
+            },
+            error: function () {
+                alert('Sry, something wrong with the server...');
+            }
+        });
+    }
+
+    function edit() {
+        let d, gender, married;
+        if (kind == 0) {
+            if ($('select[name=gender]').val() == 'Male') {
+                gender = 'm';
+            } else if ($('select[name=gender]').val() == 'Female') {
+                gender = 'f';
+            } else {
+                gender = 'u';
+            }
+            if ($('select[name=married]').val() == 'Married') {
+                married = 'T';
+            } else if ($('select[name=married]').val() == 'Not married') {
+                married = 'F';
+            } else {
+                married = 'U';
+            }
+            d = {
+                action: 'edit',
+                cid: cid,
+                kind: kind,
+                username: $('input[name=username]').val(),
+                income: $('input[name=income]').val(),
+                gender: gender,
+                married: married,
+                age: $('input[name=age]').val(),
+                street: $('input[name=address]').val(),
+                city: $('input[name=city]').val(),
+                zipcode: $('input[name=zipcode]').val(),
+                stateid: $('#states').val(),
+                addressid: localStorage.getItem('addressid')
+            };
+        } else {
+            d = {
+                action: 'edit',
+                cid: cid,
+                kind: kind,
+                username: $('input[name=username]').val(),
+                income: $('input[name=income]').val(),
+                bc: $('input[name=bc]').val(),
+                street: $('input[name=address]').val(),
+                city: $('input[name=city]').val(),
+                zipcode: $('input[name=zipcode]').val(),
+                stateid: $('#states').val(),
+                addressid: localStorage.getItem('addressid')
+            };
+        }
+        $.ajax({
+            type: 'POST',
+            url: "../php/customer.php",
+            data: d,
+            dataType: "json",
+            success: function (data) {
+                if (data !== 0) {
+                    alert('You have been successfully edited your profile.');
+                    $('#exampleModal').modal('hide');
+                } else {
+                    alert('Sry, something wrong with the server...');
+                }
+            },
+            error: function () {
+                alert('Sry, something wrong with the server...');
+            }
+        });
+    }
+
+    function show_delete_modal() {
+        $('#deleteModal').modal('show');
+    }
+
+    $("#deleteModal").on("click", ".btn-success", function () {
+        $.ajax({
+            type: 'post',
+            url: "../php/customer.php",
+            data: 'action=quit&cid=' + cid + '&addressid=' + localStorage.getItem('addressid'),
+            dataType: "json",
+            success: function (data) {
+                if (data !== 0) {
+                    $('#deleteModal').modal('hide');
+                    // console.log(data);
+                } else {
+                    alert('Sry, something wrong with the server...');
+                }
+            },
+            error: function () {
+                alert('Sry, something wrong with the server...');
+            }
+        });
+    });
+
+    $('#deleteModal').on('hidden.bs.modal', function (e) {
+        logout();
+    });
+
+    function show_edit_modal() {
+        $('#exampleModal').modal('show');
+        get_states();
+    }
+
+    $('#exampleModal').on('hidden.bs.modal', function (e) {
+        get_customer_details();
+    });
+
+</script>
+
+</body>
+
+</html>

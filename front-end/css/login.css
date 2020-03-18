@@ -1,0 +1,36 @@
+body {
+    background: url(../img/yinhe.jpg) no-repeat;
+    background-size: cover;
+    font-size: 16px;
+}
+
+.form {
+    background: rgba(247, 242, 232, 0.2);
+    width: 550px;
+    margin-top: 100px auto;
+    margin-bottom: 100px auto;
+}
+
+#login_form {
+    display: block;
+}
+
+#register_form {
+    display: block;
+}
+
+.fa {
+    display: inline-block;
+    top: 27px;
+    left: 6px;
+    position: relative;
+    color: #ccc;
+}
+
+input[type="text"], input[type="password"] {
+    padding-left: 26px;
+}
+
+.checkbox {
+    padding-left: 21px;
+}
